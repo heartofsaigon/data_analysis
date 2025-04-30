@@ -1,0 +1,177 @@
+---
+title: "TEDS Data"
+author: Nam-Anh Tran
+# date: '`r Sys.Date()`'
+# date-format: "MMMM D, YYYY"
+format:
+  pdf:
+    aft-pdf:
+    documentclass: scrartcl
+    #pagestyle: headings
+    #papersize: us-letter
+    toc: false
+    toc-depth: 3
+    mathspec: true
+    extra_dependencies: ["flatter"]
+    classoption: [onecolumn, portrait, abstract]
+    mainfont: Times New Roman
+    fontsize: 12pt
+    include-in-header:
+      - text: |
+          \usepackage{setspace}
+          \usepackage{float}
+          \usepackage{fontspec}
+          \usepackage{fvextra}
+          \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+highlight-style: tango
+number-sections: true
+fig-cap-location: top
+fig-height: 4
+fig-width: 6
+fig-pos: false
+shift-heading-level-by: 0
+link-citations: true
+linkcolor: red
+margin-top: 2.5cm
+margin-bottom: 2.5cm
+margin-left: 2cm
+margin-right: 2cm
+indent: true
+bibliography: references.bib
+csl: vancouver.csl
+editor: source
+editor_options: 
+  chunk_output_type: console
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+\doublespacing
+
+
+# Introduction to TEDS
+
+The Treatment Episode Data Set (TEDS) system serves as a repository for treatment data
+routinely collected by states for the purposes of monitoring their substance use treatment systems. It is comprised of selected data items from states’ administrative records that are converted to a standardized format which is consistent across all states.
+
+The TEDS system is comprised of two major components: the Admissions Data Set (TEDS-A)
+and the Discharges Data Set (TEDS-D). Data for the TEDS Admissions (TEDS-A) file were first reported in 1992, while data for the TEDS-D were first reported in 2000.
+
+# Admissions
+
+TEDS-A provides demographic, clinical, and substance use characteristics of persons admitted to substance use treatment services. The unit of analysis is treatment admissions to state-licensed or certified substance use treatment centers that receive federal public funding.
+
+TEDS-A has two parts: a minimum data set and a supplemental data set. The former is collected by all states; the latter is collected by some.
+
+The minimum data set consists of 19 items that include:
+
+- demographic information;
+- primary, secondary, and tertiary substances used by the subject, and their route of
+administration, frequency of use, and age at first use;
+- source of referral to treatment;
+- number of prior treatment episodes; and
+- service type, including planned use of medication-assisted (i.e., methadone, buprenorphine, or naltrexone) opioid therapy.
+
+TEDS-A;s supplemental data set includes 15 psychiatric, social, and economic items.
+
+# Discharges
+
+The second major component of the TEDS system, TEDS-D (consisting of discharge records), includes the same variables as the admissions (TEDS-A) component, with the addition of:
+
+- type of service at discharge,
+- length of stay, and
+- reason for discharge or discontinuation of service.
+
+# Some characteristics
+
+- **Missing data:** There is one type of missing data (code -9): Missing/unknown/not collected/invalid.
+- **Census state:** 72 U.S States (page: 23-24, file: TEDS-A).
+
+# Some potential research questions
+
+*(I asked ChatGPT for some possible questions)*
+
+## What patient‐level factors predict treatment completion versus early dropout?
+
+- Outcome: Discharge reason coded as “treatment completed” vs. other (available in the TEDS-D file, but you could approximate completion by joining admissions to discharges).
+- Key predictors:
+   - Demographics: AGE, GENDER (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+   - Socioeconomic: EDUC, EMPLOY (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+   - Clinical: Primary substance (SUB1), frequency of use (FREQ1), prior episodes (NOPRIOR) (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+- Model ideas: Logistic regression; Bayesian logistic with random intercepts for state.
+
+## How does time-to-treatment entry (“wait days”) vary by referral source and geography?
+
+- Outcome: DAYWAIT (days waiting to enter treatment) (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+- Predictors:
+   - Referral: PSOURCE (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+   - Geography: REGION or DIVISION (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+- Model ideas: Ordered logistic regression; survival-analysis treating DAYWAIT as time-to-event; hierarchical model with random effects by DIVISION.
+
+## What demographic and substance‐use patterns characterize clients reporting injection drug use (IDU)?
+
+- Outcome: IDU flag (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+- Predictors:
+   - Demographics: AGE, RACE, MARSTAT (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+   - Substance profile: SUB1–SUB3 flags (e.g., HERFLG, MTHAMFLG) (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+- Model ideas: Multivariable logistic regression; classification tree to detect high-risk profiles.
+
+## Are there distinct “latent classes” of polysubstance users, and how do they differ in outcomes?
+
+- Data: Flags for alcohol (ALCFLG), cocaine (COKEFLG), heroin (HERFLG), methamphetamine (MTHAMFLG), etc. (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+- Analysis:
+   - Latent class analysis (LCA) on the substance flags.
+   - Characterize each class by demographics (AGE, GENDER) and outcomes (e.g., LOS from TEDS-D).
+	 
+## How does the use of medication-assisted opioid therapy (METHUSE) influence treatment length and completion?
+
+- Exposure: METHUSE (yes/no) (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+- Outcomes:
+	 - Type of service/setting (SERVICES), as a proxy for intensity (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+	 - LOS and completion from discharge file.
+- Model ideas: Competing-risks survival model (completion vs. dropout); propensity-score-adjusted Cox model.
+
+## What factors are associated with high‐frequency (daily) primary substance use at admission?
+
+- Outcome: FREQ1 = “Daily use” (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+- Predictors:
+   - Sociodemographic: LIVARAG (living arrangement), PRIMINC (income source) (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+   - Clinical: Age at first use (FRSTUSE1), prior episodes (NOPRIOR) (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+- Model ideas: Ordinal logistic regression; Bayesian mixed-effects model with state random intercept.
+
+## How do arrest history and criminal-justice referrals relate to treatment engagement?
+
+- Outcomes:
+   - Completion status or LOS.
+- Key predictors:
+	 - ARRESTS (in past 30 days) (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+	 - PSOURCE = “Court/criminal justice referral” and detailed CJ referral (DETCRIM) (TEDS-A-2022-DS0001-info-codebook_v1.pdf)
+- Model ideas: Survival analysis for time-in-treatment; logistic regression for completion, adjusting for covariates.
+
+
+
+
+
+
+
+
+
+
+# References {-}
+
+\singlespacing
+
+
+\clearpage
+\setcounter{section}{0}
+\renewcommand{\thesection}{\Alph{section}}
+\setcounter{figure}{0}
+\renewcommand{\thefigure}{\arabic{figure} (Appendix)}
+
+# Appendix {-}
+
+
+
+
