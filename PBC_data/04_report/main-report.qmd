@@ -1,0 +1,105 @@
+---
+title: "PBC"
+subtitle: |
+date: '`r Sys.Date()`'
+author: Nam-Anh Tran
+format:
+  html: 
+    theme: darkly
+    toc: true
+fontsize: 12pt
+#reference-location: margin
+#citation-location: margin
+number-sections: true
+fig-cap-location: bottom
+fig-height: 6
+fig-width: 8.5
+link-citations: true
+linkcolor: deeppink
+indent: true
+classoption: [onecolumn, portrait]
+bibliography: ../../references.bib
+csl: ../../vancouver.csl
+editor: source
+editor_options: 
+  chunk_output_type: console
+execute: 
+  eval: true
+  warning: false
+---
+
+## 
+
+
+
+
+
+
+## Appendix
+
+### Poisson-Gamma process
+
+We briefly summary the Poisson-Gamma process that will latter be used to address the Cox model within Bayesian framework. [@ibrahim_bayesian_2001; @clayton1991monte] 
+
+#### Likelihood
+
+We first divide the follow-up interval $[0,T]$ into $J$ disjoint subintervals $0 = s_0 < s_1 < \cdots < s_J = T$. For subject $i$, we define 
+$$
+dN_{ij} = N_i(s_j)-N_i(s_{j-1})
+$$
+be the number of events in $(s_{j-1},s_j]$, and let $z_i$ be their covariate vector. 
+
+Conditional on the (unknown) baseline cumulative hazard increments
+$\Delta A_j = A_0(s_j)-A_0(s_{j-1})$, and on regression coefficients $\beta$, the counts are independent Poisson:
+$$
+dN_{ij}\mid\Delta A_j,\beta
+\sim
+\mathrm{Poisson}\Bigl(\Lambda_{ij}\Bigr),
+\quad
+\Lambda_{ij}
+= \exp\{\beta^\top z_i\}\Delta A_j.
+$$
+
+#### Prior on $A_0$ (Gamma Process)
+
+With the assumption of independent increments, we let the baseline cumulative hazard $A_0(t)$ follow a gamma process, so that its piecewise increments
+$\Delta A_j = A_0(s_j)-A_0(s_{j-1})$ are independent.
+
+
+We consider Gamma‐distributed increments for the increments. In shape–rate form,
+$$
+\Delta A_j
+\;\sim\;
+\mathrm{Gamma}\bigl(\alpha_j,\;\gamma\bigr),
+\quad
+\text{with density }
+p(\Delta A_j)
+= \frac{\gamma^{\alpha_j}}{\Gamma(\alpha_j)}
+(\Delta A_j)^{\alpha_j-1}
+e^{-\gamma\,\Delta A_j}.
+$$
+A common choice is $\alpha_j = c\,[A_0(s_j)-A_0(s_{j-1})]$ and $\gamma = c$,
+so that $\mathbb E[\Delta A_j]=A_0(s_j)-A_0(s_{j-1})$ and $c$ controls prior strength.
+
+It is essential to note that, under this setting, $A_0(s_j) = \sum_{k=1}^j\Delta A_k$ has marginal distribution 
+$$
+A_0(s_j)\sim\Gamma\Bigl(\sum_{k=1}^j\alpha_k,\;\gamma\Bigr)
+$$
+and the collection $\{A_0(t)\colon t\ge0\}$ is by definition a **gamma process**. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

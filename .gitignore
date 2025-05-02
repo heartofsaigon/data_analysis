@@ -49,3 +49,5 @@ po/*~
 rsconnect/
 TEDS/00_rawdata/tedsa_puf_2022_r.rdata
 TEDS/00_rawdata/tedsd_puf_2022_r.rdata
+PBC_data/00_rawdata/pbc.dat
+chronic/U.S._Chronic_Disease_Indicators.csv
