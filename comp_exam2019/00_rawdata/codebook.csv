@@ -1,0 +1,15 @@
+Variable,Description
+ID,Neonate identifier (1 to 85)
+Time,"Time of measurement in hours (6, 12, 24, 48, 72, 168)"
+Copeptin,Copeptin biomarker level (ng/mL)
+NSE,Neuron-specific enolase biomarker level (ng/mL)
+Gender,"Gender (0 = female, 1 = male)"
+BirthWeight,Birth weight (grams)
+Cooling,"Received therapeutic hypothermia (0 = no, 1 = yes)"
+NeurologicalOutcome,"Neurological outcome at 2 years (0 = unfavorable, 1 = favorable)"
+HIESeverity,"HIE severity (mild, moderate, severe)"
+Apgar5,5-minute Apgar score (0-10)
+pH,Cord blood pH (6.8-7.2)
+Lactate,"Serum lactate level (mmol/L, 4-12)"
+GestationalAge,"Gestational age (weeks, 34-42)"
+CoolingTime,"Time to cooling initiation (hours, 0-6 if Cooling = 1, NA if Cooling = 0)"

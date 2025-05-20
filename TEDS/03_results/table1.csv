@@ -1,0 +1,1531 @@
+Age,Gender,Race,Alcohol reported at admission,Substance use at admission,Frequency of use at admission,Mental and substance use disorders,Previous substance use treatment,Referral source,Education
+27,male,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+42,male,white,yes,opioids and stimulants,no use,yes,yes,individual,highschool
+22.5,female,white,no,opioids and stimulants,no use,yes,yes,care provider,college/university
+37,female,white,no,opioids and stimulants,some use,yes,no,care provider,college/university
+37,female,white,no,opioids and stimulants,no use,yes,yes,care provider,highschool
+37,female,white,yes,depressants,daily use,yes,yes,individual,highschool
+19,female,white,no,others,daily use,yes,no,community referral,highschool
+42,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,college/university
+37,male,white,no,opioids and stimulants,no use,no,no,care provider,college/university
+47,male,white,yes,depressants,some use,no,yes,care provider,highschool
+27,male,white,yes,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+42,female,white,no,opioids and stimulants,no use,yes,no,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+37,female,white,yes,depressants,no use,yes,yes,Court/criminal justice referral,highschool
+32,male,white,yes,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+42,male,white,yes,depressants,some use,yes,yes,care provider,college/university
+47,male,white,yes,depressants,daily use,yes,no,Court/criminal justice referral,college/university
+47,male,white,yes,depressants,some use,no,no,care provider,college/university
+22.5,female,white,yes,depressants,some use,no,no,care provider,college/university
+27,male,white,yes,opioids and stimulants,no use,no,yes,care provider,highschool
+70,male,white,no,opioids and stimulants,no use,yes,yes,care provider,college/university
+42,female,white,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,highschool
+37,female,white,no,opioids and stimulants,some use,yes,yes,care provider,highschool
+59.5,male,white,yes,depressants,some use,yes,no,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+59.5,female,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+42,male,white,no,opioids and stimulants,no use,no,yes,individual,college/university
+52,male,white,yes,depressants,daily use,yes,yes,Court/criminal justice referral,highschool
+27,female,white,no,opioids and stimulants,no use,yes,no,Court/criminal justice referral,highschool
+22.5,female,white,no,opioids and stimulants,some use,no,no,care provider,highschool
+47,male,others,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+27,female,others,no,opioids and stimulants,daily use,no,yes,care provider,highschool
+32,male,white,yes,others,no use,no,yes,Court/criminal justice referral,highschool
+27,female,white,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,highschool
+42,male,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+37,male,white,yes,depressants,no use,yes,yes,Court/criminal justice referral,highschool
+37,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+47,male,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+27,female,white,no,opioids and stimulants,daily use,no,no,community referral,college/university
+19,male,black,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,highschool
+32,female,white,no,depressants,daily use,no,yes,care provider,college/university
+27,male,white,no,others,some use,yes,yes,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,lower than high school
+47,male,others,no,opioids and stimulants,daily use,no,yes,individual,highschool
+37,male,white,yes,depressants,daily use,no,no,individual,college/university
+52,male,white,yes,depressants,no use,yes,yes,individual,highschool
+37,male,white,yes,depressants,daily use,no,yes,care provider,highschool
+37,female,others,yes,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+32,male,white,no,opioids and stimulants,some use,no,no,individual,highschool
+47,male,others,no,opioids and stimulants,daily use,no,yes,community referral,highschool
+32,female,others,no,opioids and stimulants,daily use,no,yes,care provider,highschool
+22.5,female,others,no,opioids and stimulants,daily use,no,no,Court/criminal justice referral,highschool
+52,female,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+32,female,others,no,opioids and stimulants,some use,no,no,Court/criminal justice referral,highschool
+32,male,white,yes,depressants,daily use,no,no,care provider,highschool
+22.5,male,others,no,opioids and stimulants,daily use,no,no,individual,highschool
+37,male,others,yes,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+59.5,male,white,yes,depressants,daily use,no,no,individual,college/university
+52,male,others,no,opioids and stimulants,some use,no,yes,individual,highschool
+27,male,others,no,opioids and stimulants,some use,no,no,care provider,highschool
+47,male,white,yes,depressants,no use,no,yes,individual,college/university
+52,male,white,no,opioids and stimulants,no use,no,no,individual,highschool
+22.5,female,white,no,depressants,some use,yes,no,individual,highschool
+42,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+13,female,others,yes,others,daily use,no,no,Court/criminal justice referral,lower than high school
+59.5,male,white,yes,depressants,daily use,yes,yes,care provider,college/university
+47,male,white,yes,depressants,daily use,no,no,care provider,highschool
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+27,male,white,yes,depressants,daily use,no,yes,individual,college/university
+27,female,white,no,opioids and stimulants,daily use,yes,yes,community referral,college/university
+22.5,male,white,no,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+37,male,white,yes,opioids and stimulants,some use,yes,yes,individual,highschool
+22.5,male,white,yes,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,college/university
+42,male,others,yes,opioids and stimulants,daily use,yes,yes,individual,highschool
+59.5,male,others,yes,depressants,daily use,yes,yes,individual,highschool
+42,male,white,yes,depressants,daily use,yes,yes,individual,highschool
+32,male,others,no,opioids and stimulants,some use,yes,yes,community referral,highschool
+37,female,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+42,female,white,yes,depressants,daily use,no,yes,Court/criminal justice referral,highschool
+37,male,others,yes,depressants,daily use,yes,yes,care provider,highschool
+22.5,male,white,yes,opioids and stimulants,some use,no,yes,individual,highschool
+32,female,white,yes,depressants,daily use,yes,yes,individual,college/university
+59.5,male,others,yes,depressants,daily use,yes,yes,individual,highschool
+27,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+47,male,others,yes,depressants,some use,no,yes,care provider,college/university
+47,male,black,no,opioids and stimulants,daily use,yes,yes,community referral,highschool
+52,male,others,yes,depressants,no use,yes,yes,individual,college/university
+37,female,others,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+22.5,male,others,yes,depressants,daily use,yes,yes,individual,highschool
+32,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+59.5,female,white,yes,depressants,no use,yes,yes,Court/criminal justice referral,highschool
+32,male,white,yes,opioids and stimulants,no use,no,yes,individual,highschool
+42,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+32,male,white,no,opioids and stimulants,some use,no,yes,individual,college/university
+42,female,white,yes,opioids and stimulants,daily use,no,yes,individual,highschool
+27,male,white,yes,depressants,daily use,no,yes,individual,college/university
+37,male,white,yes,depressants,some use,no,yes,Court/criminal justice referral,highschool
+42,male,white,yes,depressants,no use,no,yes,individual,highschool
+37,male,white,yes,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+32,female,white,yes,depressants,no use,no,yes,individual,highschool
+47,male,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,college/university
+32,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,male,white,yes,opioids and stimulants,daily use,no,yes,individual,highschool
+47,male,black,yes,depressants,daily use,no,yes,individual,highschool
+32,male,white,yes,depressants,some use,no,yes,Court/criminal justice referral,highschool
+27,male,others,yes,depressants,no use,no,yes,Court/criminal justice referral,college/university
+22.5,male,white,no,opioids and stimulants,no use,no,yes,community referral,highschool
+27,male,white,yes,depressants,daily use,no,yes,individual,highschool
+32,male,white,yes,depressants,daily use,no,yes,Court/criminal justice referral,college/university
+59.5,male,white,yes,depressants,some use,no,yes,individual,highschool
+52,female,white,yes,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,college/university
+47,male,others,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+27,male,white,yes,depressants,daily use,no,yes,individual,highschool
+42,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+32,male,others,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+52,male,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+32,female,white,yes,opioids and stimulants,no use,no,yes,individual,highschool
+22.5,male,black,no,opioids and stimulants,daily use,no,yes,community referral,college/university
+37,male,white,no,others,no use,no,yes,community referral,highschool
+42,male,black,no,opioids and stimulants,daily use,no,no,individual,highschool
+32,male,black,yes,depressants,daily use,no,no,individual,highschool
+42,male,white,yes,depressants,daily use,no,no,individual,highschool
+42,male,black,no,opioids and stimulants,no use,no,yes,individual,college/university
+27,male,black,yes,depressants,daily use,yes,yes,Court/criminal justice referral,highschool
+19,female,white,no,others,some use,no,no,individual,college/university
+32,female,white,no,opioids and stimulants,no use,yes,yes,community referral,highschool
+37,male,white,yes,depressants,daily use,no,no,individual,highschool
+47,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+37,male,white,yes,depressants,daily use,no,yes,individual,highschool
+70,male,white,yes,opioids and stimulants,daily use,no,no,individual,highschool
+59.5,male,black,yes,opioids and stimulants,daily use,no,no,individual,highschool
+47,female,white,yes,depressants,daily use,no,yes,individual,highschool
+37,female,white,yes,depressants,no use,no,yes,individual,highschool
+27,male,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+37,female,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,college/university
+32,female,white,no,opioids and stimulants,daily use,yes,yes,individual,lower than high school
+27,female,white,no,opioids and stimulants,some use,no,yes,individual,highschool
+52,male,white,yes,depressants,some use,no,yes,care provider,highschool
+27,male,white,no,others,some use,yes,yes,individual,college/university
+27,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+37,female,white,yes,depressants,daily use,no,no,individual,highschool
+19,male,white,no,opioids and stimulants,no use,no,no,individual,highschool
+32,male,white,yes,depressants,some use,no,yes,individual,highschool
+47,female,others,yes,opioids and stimulants,some use,yes,yes,community referral,lower than high school
+32,female,white,no,others,some use,yes,yes,Court/criminal justice referral,highschool
+47,male,white,yes,depressants,no use,yes,yes,individual,college/university
+47,male,white,no,others,daily use,no,no,individual,highschool
+37,female,white,yes,depressants,no use,yes,yes,Court/criminal justice referral,highschool
+27,female,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+27,male,white,yes,opioids and stimulants,no use,no,yes,individual,highschool
+27,male,others,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+32,female,white,yes,depressants,no use,yes,no,care provider,highschool
+32,male,white,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,highschool
+47,male,white,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,no use,no,yes,care provider,highschool
+16,male,white,yes,depressants,daily use,no,no,community referral,highschool
+42,female,white,yes,depressants,no use,no,no,Court/criminal justice referral,college/university
+52,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+47,female,white,yes,depressants,some use,no,no,individual,highschool
+27,female,white,yes,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+27,male,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+52,male,white,yes,opioids and stimulants,no use,no,yes,individual,college/university
+27,female,white,yes,depressants,no use,yes,yes,Court/criminal justice referral,college/university
+27,female,white,yes,opioids and stimulants,no use,yes,no,care provider,highschool
+42,male,white,yes,opioids and stimulants,some use,no,yes,Court/criminal justice referral,college/university
+37,female,white,yes,depressants,no use,no,yes,individual,highschool
+70,male,white,no,others,some use,no,yes,Court/criminal justice referral,highschool
+70,female,others,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+16,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,lower than high school
+32,male,white,no,opioids and stimulants,some use,yes,no,Court/criminal justice referral,highschool
+32,female,others,yes,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+59.5,male,white,yes,depressants,some use,no,no,community referral,highschool
+32,male,others,no,others,some use,no,no,Court/criminal justice referral,college/university
+16,female,white,no,others,some use,no,no,community referral,highschool
+32,male,others,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+22.5,female,others,no,opioids and stimulants,no use,no,no,individual,highschool
+32,male,white,yes,others,daily use,yes,yes,Court/criminal justice referral,highschool
+32,female,black,yes,depressants,some use,yes,yes,Court/criminal justice referral,college/university
+42,female,white,yes,opioids and stimulants,daily use,no,yes,community referral,highschool
+52,male,white,no,others,no use,no,yes,Court/criminal justice referral,highschool
+37,female,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+16,male,black,no,others,no use,yes,yes,care provider,highschool
+59.5,male,white,yes,depressants,no use,yes,no,Court/criminal justice referral,highschool
+27,male,white,yes,opioids and stimulants,no use,no,yes,individual,highschool
+52,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,college/university
+59.5,male,white,no,opioids and stimulants,some use,no,yes,community referral,highschool
+37,female,white,yes,depressants,no use,yes,yes,individual,college/university
+52,male,white,yes,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+59.5,male,white,yes,others,some use,no,yes,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,daily use,no,yes,individual,college/university
+13,female,others,yes,depressants,daily use,no,yes,care provider,highschool
+16,male,black,no,others,some use,no,no,care provider,highschool
+42,male,white,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+42,male,white,yes,depressants,some use,yes,yes,individual,college/university
+32,female,white,no,opioids and stimulants,some use,no,no,care provider,highschool
+27,female,white,no,opioids and stimulants,daily use,no,yes,community referral,highschool
+27,male,white,yes,others,no use,no,yes,community referral,highschool
+52,female,white,no,others,daily use,yes,yes,Court/criminal justice referral,highschool
+19,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+16,male,others,yes,others,some use,no,yes,care provider,highschool
+42,female,white,yes,opioids and stimulants,some use,no,yes,care provider,college/university
+42,female,white,yes,opioids and stimulants,no use,no,yes,community referral,college/university
+27,female,white,no,opioids and stimulants,daily use,yes,yes,community referral,college/university
+32,female,white,yes,depressants,some use,yes,yes,community referral,college/university
+32,male,white,yes,others,no use,no,no,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,some use,yes,yes,community referral,highschool
+52,female,white,no,opioids and stimulants,some use,no,yes,individual,highschool
+42,female,others,yes,depressants,no use,yes,no,Court/criminal justice referral,college/university
+19,male,black,no,others,some use,yes,yes,Court/criminal justice referral,highschool
+19,male,others,yes,depressants,some use,no,yes,Court/criminal justice referral,college/university
+59.5,male,white,yes,depressants,daily use,no,yes,individual,highschool
+37,female,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+19,female,black,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+22.5,male,white,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+42,male,white,yes,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+27,male,others,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,highschool
+32,male,white,yes,depressants,no use,yes,no,Court/criminal justice referral,highschool
+47,male,others,yes,opioids and stimulants,daily use,yes,yes,individual,highschool
+52,male,others,yes,depressants,daily use,no,no,individual,college/university
+37,male,others,no,opioids and stimulants,daily use,yes,yes,individual,lower than high school
+32,male,others,yes,depressants,daily use,yes,yes,individual,highschool
+59.5,female,others,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,college/university
+27,male,others,yes,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+32,male,others,no,opioids and stimulants,daily use,yes,yes,community referral,highschool
+59.5,male,others,yes,opioids and stimulants,daily use,yes,no,individual,highschool
+42,female,others,yes,depressants,some use,yes,yes,Court/criminal justice referral,college/university
+70,male,others,yes,depressants,daily use,yes,yes,individual,college/university
+42,male,others,no,opioids and stimulants,daily use,no,yes,community referral,college/university
+59.5,male,others,yes,depressants,daily use,yes,no,Court/criminal justice referral,college/university
+52,male,white,yes,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+32,male,others,yes,depressants,daily use,no,no,individual,highschool
+27,male,white,no,opioids and stimulants,no use,yes,no,individual,highschool
+42,female,others,yes,opioids and stimulants,daily use,no,no,individual,college/university
+59.5,male,others,no,opioids and stimulants,daily use,no,yes,individual,highschool
+37,male,others,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+27,female,white,yes,depressants,no use,yes,yes,care provider,highschool
+59.5,male,others,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+37,male,others,yes,opioids and stimulants,daily use,yes,yes,individual,highschool
+27,male,white,yes,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+52,male,others,yes,opioids and stimulants,some use,yes,yes,individual,highschool
+70,female,others,yes,depressants,daily use,yes,yes,individual,college/university
+70,female,others,yes,depressants,no use,no,yes,individual,college/university
+59.5,male,others,no,opioids and stimulants,daily use,no,yes,individual,highschool
+27,male,others,yes,depressants,daily use,yes,yes,Court/criminal justice referral,highschool
+59.5,male,others,no,opioids and stimulants,daily use,no,yes,individual,highschool
+37,male,others,yes,depressants,daily use,no,yes,individual,highschool
+47,female,others,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+37,male,others,yes,depressants,daily use,yes,yes,individual,highschool
+37,male,white,yes,depressants,no use,yes,no,community referral,highschool
+27,male,others,no,opioids and stimulants,some use,no,no,individual,highschool
+37,male,others,yes,depressants,daily use,no,yes,individual,college/university
+27,male,others,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+32,male,white,yes,depressants,no use,yes,yes,Court/criminal justice referral,highschool
+59.5,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+59.5,male,white,yes,depressants,daily use,no,no,individual,college/university
+52,male,white,yes,depressants,daily use,yes,no,care provider,highschool
+27,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+32,male,white,no,opioids and stimulants,some use,no,no,individual,highschool
+22.5,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+59.5,male,white,yes,depressants,daily use,no,yes,individual,highschool
+47,male,white,yes,opioids and stimulants,daily use,yes,yes,individual,highschool
+42,female,white,yes,opioids and stimulants,no use,yes,yes,individual,highschool
+32,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+27,male,white,yes,depressants,daily use,no,no,individual,highschool
+22.5,male,black,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+52,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+42,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+19,female,white,no,opioids and stimulants,daily use,yes,no,individual,college/university
+52,male,white,no,opioids and stimulants,some use,yes,no,individual,highschool
+22.5,male,white,yes,depressants,daily use,no,yes,individual,highschool
+32,male,white,no,opioids and stimulants,no use,yes,no,Court/criminal justice referral,college/university
+32,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+19,female,white,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+22.5,male,white,no,others,daily use,no,no,individual,highschool
+59.5,male,white,no,others,daily use,no,no,individual,highschool
+52,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+32,male,white,no,opioids and stimulants,some use,yes,yes,community referral,highschool
+37,female,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+59.5,female,white,no,opioids and stimulants,no use,yes,yes,care provider,highschool
+37,male,others,no,opioids and stimulants,daily use,yes,no,Court/criminal justice referral,highschool
+42,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+37,male,white,no,opioids and stimulants,daily use,no,yes,individual,college/university
+70,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+37,male,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+42,female,white,yes,depressants,daily use,yes,yes,Court/criminal justice referral,college/university
+42,male,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+47,male,white,yes,depressants,some use,no,yes,individual,highschool
+52,male,white,no,opioids and stimulants,daily use,yes,no,individual,highschool
+42,male,white,yes,others,daily use,yes,yes,care provider,college/university
+32,female,white,yes,depressants,some use,yes,yes,individual,highschool
+52,male,white,no,opioids and stimulants,daily use,no,no,Court/criminal justice referral,highschool
+37,female,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+42,female,white,no,opioids and stimulants,daily use,yes,no,individual,highschool
+32,male,black,no,opioids and stimulants,some use,no,yes,individual,highschool
+37,male,black,no,opioids and stimulants,daily use,no,yes,individual,highschool
+47,female,white,yes,depressants,some use,yes,no,community referral,lower than high school
+22.5,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+32,female,others,no,opioids and stimulants,daily use,no,no,care provider,highschool
+19,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+59.5,male,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+22.5,male,white,yes,depressants,some use,no,no,Court/criminal justice referral,college/university
+32,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,female,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+47,male,black,no,opioids and stimulants,daily use,yes,yes,care provider,highschool
+32,male,white,yes,depressants,some use,yes,no,individual,college/university
+32,male,black,yes,opioids and stimulants,daily use,yes,yes,individual,highschool
+52,male,white,no,opioids and stimulants,daily use,yes,no,individual,highschool
+42,male,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+27,female,white,yes,depressants,daily use,no,no,individual,highschool
+32,male,others,yes,opioids and stimulants,daily use,yes,no,care provider,highschool
+52,male,white,no,opioids and stimulants,some use,no,yes,individual,college/university
+19,male,white,yes,depressants,daily use,yes,yes,individual,lower than high school
+22.5,male,white,yes,depressants,daily use,yes,no,individual,highschool
+42,male,white,no,opioids and stimulants,some use,yes,yes,care provider,highschool
+52,male,white,yes,depressants,daily use,no,yes,individual,highschool
+52,male,black,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+37,male,black,no,others,daily use,yes,no,care provider,highschool
+59.5,male,black,yes,others,daily use,no,no,care provider,highschool
+59.5,male,white,yes,depressants,daily use,no,no,individual,highschool
+27,female,white,yes,depressants,daily use,no,no,Court/criminal justice referral,highschool
+27,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+42,female,white,yes,depressants,daily use,yes,yes,individual,college/university
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+52,male,white,yes,depressants,daily use,no,yes,individual,college/university
+42,female,white,no,opioids and stimulants,daily use,no,no,care provider,highschool
+52,male,white,yes,depressants,daily use,no,no,individual,highschool
+22.5,male,white,no,opioids and stimulants,daily use,yes,yes,care provider,highschool
+16,male,white,no,others,daily use,no,yes,individual,highschool
+59.5,male,black,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+32,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+42,male,black,no,opioids and stimulants,no use,no,yes,care provider,highschool
+47,male,black,yes,opioids and stimulants,daily use,yes,yes,care provider,highschool
+13,male,others,no,others,some use,no,no,community referral,lower than high school
+52,male,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+27,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+37,male,white,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,male,white,no,opioids and stimulants,some use,no,no,community referral,highschool
+27,female,black,yes,depressants,daily use,yes,no,care provider,highschool
+47,male,white,no,opioids and stimulants,daily use,no,no,individual,college/university
+37,male,black,no,opioids and stimulants,daily use,no,no,Court/criminal justice referral,highschool
+27,female,white,no,opioids and stimulants,daily use,yes,yes,community referral,college/university
+27,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,female,white,no,opioids and stimulants,no use,no,no,care provider,highschool
+22.5,male,white,yes,opioids and stimulants,some use,no,no,individual,highschool
+47,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,some use,yes,yes,care provider,college/university
+37,male,black,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+47,female,white,yes,depressants,daily use,yes,yes,individual,college/university
+42,male,white,yes,depressants,daily use,yes,no,individual,highschool
+42,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+37,male,white,yes,opioids and stimulants,some use,no,no,Court/criminal justice referral,highschool
+32,male,white,no,opioids and stimulants,some use,no,no,Court/criminal justice referral,highschool
+32,male,white,yes,depressants,some use,no,no,Court/criminal justice referral,college/university
+27,female,others,yes,depressants,daily use,no,no,individual,highschool
+32,male,white,no,others,daily use,yes,yes,individual,college/university
+32,male,white,no,opioids and stimulants,daily use,no,no,Court/criminal justice referral,highschool
+27,female,white,no,opioids and stimulants,daily use,no,yes,community referral,highschool
+32,male,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,college/university
+27,female,white,no,opioids and stimulants,daily use,yes,no,individual,highschool
+42,male,black,no,others,daily use,no,no,Court/criminal justice referral,college/university
+27,female,black,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+32,male,black,no,others,some use,no,yes,Court/criminal justice referral,highschool
+42,male,white,yes,opioids and stimulants,some use,no,no,individual,highschool
+42,male,black,yes,depressants,some use,yes,no,individual,highschool
+22.5,male,white,no,others,daily use,no,no,Court/criminal justice referral,highschool
+27,male,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,some use,no,no,care provider,highschool
+32,female,white,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,college/university
+47,female,black,yes,depressants,some use,no,yes,community referral,highschool
+59.5,female,black,no,opioids and stimulants,some use,yes,yes,care provider,lower than high school
+52,male,black,yes,depressants,some use,no,yes,Court/criminal justice referral,highschool
+52,male,white,yes,depressants,no use,no,yes,care provider,highschool
+32,male,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+37,male,white,yes,opioids and stimulants,daily use,no,yes,individual,college/university
+52,male,white,yes,depressants,some use,yes,yes,individual,highschool
+22.5,female,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+27,female,white,no,opioids and stimulants,daily use,no,yes,community referral,college/university
+19,male,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+27,male,white,yes,depressants,some use,no,yes,individual,highschool
+27,female,white,no,opioids and stimulants,daily use,yes,no,individual,college/university
+27,female,black,no,others,some use,no,no,community referral,highschool
+27,female,white,no,opioids and stimulants,no use,yes,no,individual,highschool
+19,male,white,no,others,some use,no,no,Court/criminal justice referral,highschool
+52,male,white,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+52,male,white,yes,depressants,daily use,yes,yes,Court/criminal justice referral,college/university
+22.5,female,white,yes,depressants,daily use,yes,yes,care provider,college/university
+37,male,white,no,opioids and stimulants,daily use,yes,no,Court/criminal justice referral,highschool
+47,female,white,no,opioids and stimulants,daily use,no,yes,individual,college/university
+42,male,others,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,college/university
+32,female,white,no,opioids and stimulants,daily use,yes,no,Court/criminal justice referral,highschool
+27,female,white,yes,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+27,male,white,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,college/university
+37,male,white,no,opioids and stimulants,daily use,no,no,care provider,highschool
+27,female,white,no,opioids and stimulants,some use,no,yes,care provider,college/university
+37,female,white,no,others,daily use,no,no,individual,highschool
+47,male,white,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,college/university
+27,male,white,no,others,daily use,yes,no,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+42,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+37,male,white,yes,opioids and stimulants,daily use,no,yes,individual,highschool
+32,female,white,no,others,daily use,yes,yes,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,daily use,no,no,Court/criminal justice referral,college/university
+59.5,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+16,male,others,no,others,no use,no,yes,care provider,highschool
+37,female,white,yes,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+27,male,others,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+37,female,white,yes,depressants,some use,yes,no,individual,highschool
+37,male,white,yes,depressants,some use,no,yes,care provider,college/university
+32,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+32,male,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+47,male,black,yes,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+47,female,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+27,female,others,yes,depressants,no use,yes,no,care provider,highschool
+32,female,white,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,highschool
+32,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,college/university
+37,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,college/university
+59.5,female,white,yes,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,highschool
+59.5,male,others,yes,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,highschool
+32,male,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+47,male,white,yes,depressants,daily use,yes,yes,care provider,highschool
+42,male,white,yes,depressants,no use,no,yes,care provider,college/university
+16,female,white,no,others,no use,no,yes,Court/criminal justice referral,highschool
+16,male,white,yes,others,daily use,yes,no,care provider,highschool
+27,female,white,no,opioids and stimulants,daily use,no,no,community referral,highschool
+42,male,white,yes,depressants,some use,yes,yes,Court/criminal justice referral,highschool
+32,male,others,yes,depressants,daily use,no,no,Court/criminal justice referral,highschool
+32,female,white,yes,opioids and stimulants,no use,no,yes,individual,highschool
+32,male,others,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,no use,yes,no,Court/criminal justice referral,college/university
+32,male,others,yes,depressants,daily use,no,yes,individual,highschool
+52,female,white,yes,depressants,no use,yes,yes,individual,college/university
+37,male,white,yes,depressants,daily use,no,yes,individual,highschool
+27,female,white,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,college/university
+59.5,male,white,yes,opioids and stimulants,daily use,yes,yes,care provider,highschool
+27,female,white,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,highschool
+59.5,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+59.5,female,white,no,opioids and stimulants,daily use,no,yes,community referral,highschool
+22.5,male,others,yes,depressants,some use,no,yes,individual,highschool
+42,female,others,yes,depressants,daily use,yes,yes,individual,highschool
+70,male,white,yes,depressants,some use,yes,yes,individual,highschool
+42,female,white,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,college/university
+32,male,black,no,others,daily use,no,no,Court/criminal justice referral,highschool
+37,male,black,no,others,daily use,no,no,care provider,highschool
+52,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+19,female,white,no,others,some use,no,no,Court/criminal justice referral,highschool
+32,male,black,no,others,no use,no,no,Court/criminal justice referral,college/university
+37,female,white,no,opioids and stimulants,no use,no,yes,community referral,college/university
+47,male,black,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+27,male,black,no,opioids and stimulants,daily use,no,no,individual,highschool
+32,female,white,yes,depressants,no use,no,no,community referral,highschool
+27,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+27,male,black,no,others,no use,no,no,individual,highschool
+32,female,white,no,opioids and stimulants,daily use,no,no,individual,college/university
+22.5,female,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+22.5,male,others,no,opioids and stimulants,daily use,no,yes,individual,highschool
+59.5,male,black,no,opioids and stimulants,daily use,no,no,individual,highschool
+47,male,white,no,opioids and stimulants,no use,no,no,individual,highschool
+47,female,white,yes,depressants,some use,no,no,community referral,highschool
+27,female,white,no,opioids and stimulants,no use,no,no,community referral,lower than high school
+59.5,male,white,no,opioids and stimulants,some use,no,no,individual,college/university
+52,female,white,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+42,female,others,no,others,daily use,no,no,individual,highschool
+37,female,white,no,opioids and stimulants,daily use,no,no,community referral,highschool
+52,male,white,yes,depressants,no use,no,no,community referral,lower than high school
+32,male,white,yes,depressants,daily use,no,no,care provider,highschool
+47,female,white,yes,depressants,some use,no,no,individual,highschool
+37,female,white,no,opioids and stimulants,some use,no,no,Court/criminal justice referral,highschool
+52,female,white,yes,depressants,daily use,no,no,care provider,highschool
+37,male,white,yes,depressants,daily use,no,yes,care provider,highschool
+37,male,others,yes,depressants,some use,no,no,community referral,highschool
+42,male,black,no,opioids and stimulants,some use,no,no,Court/criminal justice referral,highschool
+32,male,white,no,others,daily use,no,no,Court/criminal justice referral,highschool
+37,male,white,no,others,no use,no,no,Court/criminal justice referral,highschool
+42,female,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+32,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+37,female,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+27,male,others,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+37,male,white,yes,depressants,daily use,no,no,care provider,highschool
+59.5,male,white,yes,depressants,daily use,no,no,individual,college/university
+37,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+27,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+42,male,white,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+27,male,white,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,college/university
+52,female,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+52,female,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+16,male,black,no,others,some use,no,no,Court/criminal justice referral,lower than high school
+22.5,male,white,no,others,daily use,no,yes,Court/criminal justice referral,highschool
+52,male,white,yes,depressants,some use,no,no,care provider,college/university
+19,female,black,yes,depressants,no use,no,no,care provider,highschool
+52,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+37,female,white,no,others,some use,no,no,community referral,college/university
+59.5,male,white,no,opioids and stimulants,daily use,no,no,care provider,lower than high school
+37,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+37,male,white,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+37,male,white,yes,depressants,no use,no,no,individual,highschool
+27,male,others,no,others,daily use,no,no,individual,highschool
+32,female,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+27,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+59.5,male,black,yes,depressants,no use,no,no,Court/criminal justice referral,college/university
+37,male,black,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+47,male,black,yes,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+32,male,white,no,opioids and stimulants,daily use,no,no,Court/criminal justice referral,college/university
+52,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+27,male,white,yes,opioids and stimulants,daily use,no,no,care provider,college/university
+52,male,others,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+22.5,female,white,no,opioids and stimulants,daily use,yes,yes,care provider,highschool
+27,male,white,yes,depressants,daily use,no,yes,Court/criminal justice referral,college/university
+32,male,white,yes,depressants,daily use,no,yes,individual,college/university
+70,female,white,yes,depressants,daily use,no,no,care provider,college/university
+59.5,male,white,no,opioids and stimulants,daily use,no,no,Court/criminal justice referral,college/university
+27,female,white,no,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+22.5,male,white,yes,depressants,daily use,no,no,individual,highschool
+59.5,male,white,yes,depressants,daily use,yes,yes,care provider,highschool
+27,male,others,yes,others,daily use,no,no,Court/criminal justice referral,highschool
+27,male,white,no,opioids and stimulants,some use,no,no,Court/criminal justice referral,highschool
+22.5,female,white,yes,depressants,no use,yes,yes,Court/criminal justice referral,highschool
+32,male,black,yes,depressants,no use,no,no,individual,highschool
+59.5,female,black,yes,depressants,no use,yes,yes,individual,highschool
+52,male,black,no,opioids and stimulants,daily use,no,no,care provider,highschool
+32,male,white,yes,depressants,some use,no,no,Court/criminal justice referral,college/university
+32,male,white,no,opioids and stimulants,daily use,no,yes,care provider,highschool
+22.5,female,white,yes,opioids and stimulants,no use,yes,yes,care provider,college/university
+32,male,others,yes,depressants,daily use,yes,no,care provider,highschool
+32,male,white,no,opioids and stimulants,no use,yes,no,care provider,highschool
+32,male,white,no,opioids and stimulants,no use,yes,yes,care provider,highschool
+37,female,white,no,opioids and stimulants,no use,yes,yes,care provider,highschool
+19,male,white,no,opioids and stimulants,no use,yes,yes,care provider,highschool
+47,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+37,male,white,yes,depressants,daily use,yes,yes,community referral,highschool
+32,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+32,male,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+59.5,male,white,yes,depressants,daily use,no,yes,individual,highschool
+32,male,white,yes,depressants,daily use,yes,yes,care provider,college/university
+42,male,white,yes,depressants,no use,no,no,care provider,college/university
+42,male,white,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,highschool
+42,male,white,yes,depressants,daily use,yes,no,Court/criminal justice referral,highschool
+59.5,male,white,yes,depressants,daily use,no,yes,care provider,highschool
+19,male,black,no,others,some use,no,no,community referral,highschool
+47,male,white,yes,opioids and stimulants,no use,no,yes,Court/criminal justice referral,college/university
+52,female,white,yes,depressants,some use,yes,no,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,no use,yes,no,care provider,college/university
+27,male,white,no,opioids and stimulants,daily use,no,no,care provider,highschool
+47,male,white,yes,depressants,some use,no,no,care provider,highschool
+27,male,white,yes,depressants,daily use,no,no,care provider,highschool
+27,female,white,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+16,male,white,yes,others,some use,no,no,community referral,highschool
+42,female,white,yes,depressants,daily use,yes,yes,individual,college/university
+37,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+27,female,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+59.5,female,white,no,opioids and stimulants,daily use,yes,no,care provider,college/university
+52,female,white,yes,depressants,daily use,yes,no,Court/criminal justice referral,college/university
+47,male,black,no,others,daily use,no,yes,Court/criminal justice referral,highschool
+32,male,black,no,opioids and stimulants,daily use,yes,no,Court/criminal justice referral,highschool
+22.5,male,white,no,opioids and stimulants,daily use,no,yes,care provider,highschool
+47,male,others,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+42,male,white,yes,depressants,some use,no,no,care provider,highschool
+32,female,white,yes,opioids and stimulants,daily use,yes,yes,individual,college/university
+37,female,white,yes,depressants,daily use,yes,yes,care provider,college/university
+32,male,black,yes,depressants,no use,yes,yes,Court/criminal justice referral,highschool
+27,female,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+37,male,white,no,others,daily use,no,yes,care provider,highschool
+42,male,white,no,opioids and stimulants,daily use,yes,no,Court/criminal justice referral,highschool
+52,male,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+42,male,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+52,male,black,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,highschool
+16,male,white,yes,depressants,some use,no,yes,community referral,highschool
+37,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,female,white,no,opioids and stimulants,no use,yes,yes,care provider,college/university
+37,male,white,yes,depressants,no use,yes,yes,Court/criminal justice referral,lower than high school
+27,male,white,yes,opioids and stimulants,daily use,yes,yes,care provider,highschool
+32,male,black,yes,depressants,daily use,no,no,Court/criminal justice referral,highschool
+52,male,white,yes,depressants,no use,yes,yes,care provider,college/university
+19,male,white,no,others,daily use,no,no,Court/criminal justice referral,highschool
+19,male,black,no,others,daily use,yes,yes,individual,highschool
+42,male,white,yes,depressants,daily use,yes,yes,community referral,highschool
+42,female,white,no,opioids and stimulants,some use,no,yes,individual,highschool
+59.5,female,black,no,opioids and stimulants,some use,yes,yes,individual,highschool
+32,male,black,yes,depressants,no use,yes,yes,individual,college/university
+32,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+47,female,black,no,opioids and stimulants,some use,yes,yes,individual,highschool
+42,female,white,yes,opioids and stimulants,no use,no,yes,care provider,highschool
+59.5,male,black,no,opioids and stimulants,daily use,no,yes,individual,highschool
+37,male,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+37,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+52,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,male,white,no,opioids and stimulants,daily use,yes,yes,community referral,highschool
+52,male,black,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,college/university
+27,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+37,male,black,no,opioids and stimulants,some use,yes,yes,community referral,highschool
+47,male,black,no,opioids and stimulants,no use,yes,yes,individual,highschool
+37,female,others,yes,depressants,no use,yes,yes,individual,college/university
+32,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+37,male,black,no,opioids and stimulants,daily use,no,yes,individual,highschool
+42,male,white,no,opioids and stimulants,daily use,no,yes,individual,lower than high school
+32,male,black,no,opioids and stimulants,some use,yes,yes,individual,highschool
+59.5,male,black,yes,opioids and stimulants,no use,yes,yes,individual,lower than high school
+32,female,white,no,opioids and stimulants,daily use,no,yes,community referral,highschool
+52,male,black,yes,depressants,no use,yes,yes,individual,highschool
+47,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+32,male,others,yes,opioids and stimulants,daily use,no,yes,individual,college/university
+32,female,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+59.5,female,white,no,opioids and stimulants,daily use,yes,yes,care provider,highschool
+32,female,white,no,opioids and stimulants,some use,yes,yes,community referral,college/university
+32,female,white,yes,depressants,daily use,no,yes,individual,highschool
+42,female,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+59.5,male,white,no,opioids and stimulants,daily use,yes,yes,community referral,highschool
+59.5,male,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+37,male,black,no,others,no use,no,yes,individual,college/university
+32,male,white,yes,depressants,daily use,yes,yes,individual,highschool
+42,male,black,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+59.5,male,black,no,opioids and stimulants,no use,yes,yes,individual,highschool
+42,male,white,no,opioids and stimulants,daily use,yes,yes,community referral,college/university
+37,female,black,no,opioids and stimulants,daily use,yes,yes,care provider,highschool
+37,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+59.5,female,black,yes,opioids and stimulants,daily use,yes,yes,care provider,college/university
+22.5,female,white,no,opioids and stimulants,no use,yes,yes,community referral,highschool
+42,female,white,yes,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,college/university
+32,male,black,no,opioids and stimulants,no use,yes,yes,individual,highschool
+59.5,male,black,yes,depressants,no use,no,yes,individual,highschool
+59.5,female,black,no,opioids and stimulants,some use,yes,yes,care provider,highschool
+52,female,black,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+47,female,black,no,opioids and stimulants,no use,no,yes,individual,highschool
+52,female,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+37,female,white,no,opioids and stimulants,no use,yes,yes,community referral,highschool
+27,male,white,no,others,some use,no,yes,Court/criminal justice referral,college/university
+37,male,white,yes,depressants,daily use,yes,yes,community referral,college/university
+42,female,black,no,opioids and stimulants,some use,yes,yes,community referral,highschool
+42,male,black,no,opioids and stimulants,no use,no,yes,individual,highschool
+32,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+59.5,male,white,no,opioids and stimulants,daily use,yes,yes,care provider,highschool
+37,female,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+59.5,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+19,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+27,male,white,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+32,male,black,no,others,no use,no,yes,Court/criminal justice referral,highschool
+27,male,white,no,opioids and stimulants,daily use,yes,yes,community referral,highschool
+32,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+59.5,male,black,no,opioids and stimulants,no use,no,yes,individual,highschool
+27,male,white,yes,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+37,female,white,yes,depressants,no use,yes,yes,individual,highschool
+47,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+32,male,black,no,others,daily use,yes,yes,care provider,highschool
+59.5,male,black,no,opioids and stimulants,no use,yes,yes,individual,highschool
+32,male,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+52,female,black,no,opioids and stimulants,no use,yes,yes,individual,highschool
+37,male,black,no,opioids and stimulants,some use,yes,yes,individual,college/university
+32,male,black,yes,depressants,daily use,yes,yes,Court/criminal justice referral,college/university
+42,female,white,no,opioids and stimulants,daily use,no,yes,community referral,highschool
+52,female,black,no,opioids and stimulants,daily use,no,yes,community referral,highschool
+42,female,white,no,opioids and stimulants,some use,no,yes,individual,highschool
+47,male,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+37,female,black,yes,depressants,daily use,yes,yes,individual,highschool
+52,male,black,no,opioids and stimulants,no use,yes,yes,individual,college/university
+32,male,black,yes,depressants,daily use,yes,yes,individual,highschool
+52,female,black,no,opioids and stimulants,daily use,yes,yes,community referral,highschool
+42,female,others,yes,depressants,some use,yes,yes,individual,highschool
+42,male,white,yes,others,daily use,no,no,Court/criminal justice referral,highschool
+32,male,white,no,opioids and stimulants,daily use,no,yes,care provider,college/university
+27,male,white,no,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+27,male,white,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+37,male,black,yes,depressants,some use,no,yes,Court/criminal justice referral,college/university
+47,female,white,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+59.5,female,white,no,opioids and stimulants,no use,no,yes,care provider,highschool
+52,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+16,female,others,no,others,no use,yes,no,Court/criminal justice referral,highschool
+22.5,male,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+27,male,white,yes,opioids and stimulants,some use,no,yes,community referral,highschool
+42,male,white,yes,depressants,daily use,yes,no,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+27,male,black,yes,depressants,some use,yes,yes,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,daily use,no,yes,individual,college/university
+13,female,white,no,others,some use,no,yes,Court/criminal justice referral,highschool
+32,female,white,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+47,male,white,yes,depressants,daily use,no,yes,Court/criminal justice referral,highschool
+42,male,white,no,opioids and stimulants,no use,no,yes,community referral,highschool
+37,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,some use,no,yes,individual,highschool
+22.5,male,white,yes,opioids and stimulants,some use,yes,no,community referral,highschool
+52,male,black,yes,depressants,daily use,no,yes,individual,highschool
+32,male,white,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+32,male,white,yes,opioids and stimulants,no use,no,yes,individual,highschool
+32,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+27,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+37,male,white,yes,others,some use,no,yes,individual,highschool
+27,male,white,no,others,some use,no,yes,Court/criminal justice referral,highschool
+27,female,white,yes,opioids and stimulants,some use,yes,yes,community referral,college/university
+52,female,white,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+47,female,white,no,opioids and stimulants,no use,no,yes,individual,college/university
+32,female,white,no,opioids and stimulants,some use,no,no,community referral,highschool
+37,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,female,white,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+27,male,black,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+32,female,white,yes,others,some use,no,yes,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+42,male,white,yes,opioids and stimulants,no use,no,yes,individual,highschool
+42,male,white,no,others,daily use,yes,no,care provider,lower than high school
+42,male,white,no,opioids and stimulants,some use,no,no,community referral,highschool
+19,female,white,yes,others,daily use,no,yes,individual,highschool
+37,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+32,male,white,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+37,female,black,yes,depressants,daily use,no,yes,individual,highschool
+47,female,white,no,opioids and stimulants,no use,no,yes,care provider,college/university
+42,male,white,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+27,female,white,no,others,some use,no,yes,Court/criminal justice referral,highschool
+27,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+37,female,white,no,depressants,daily use,no,yes,individual,college/university
+42,male,white,yes,opioids and stimulants,daily use,no,yes,individual,college/university
+32,female,black,yes,depressants,no use,no,yes,Court/criminal justice referral,college/university
+37,male,black,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+59.5,male,black,yes,opioids and stimulants,some use,no,no,Court/criminal justice referral,college/university
+52,female,white,no,depressants,no use,no,no,Court/criminal justice referral,highschool
+47,male,white,no,others,some use,no,yes,Court/criminal justice referral,highschool
+32,male,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+32,male,black,yes,depressants,some use,no,yes,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,no use,no,yes,community referral,highschool
+37,female,white,no,opioids and stimulants,some use,no,yes,community referral,college/university
+32,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,male,white,no,opioids and stimulants,some use,no,yes,community referral,highschool
+19,female,black,no,others,daily use,no,no,Court/criminal justice referral,highschool
+42,male,black,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+70,female,black,no,opioids and stimulants,no use,no,yes,individual,highschool
+22.5,female,white,no,others,daily use,yes,no,care provider,highschool
+22.5,female,black,yes,others,some use,no,no,community referral,highschool
+47,male,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+52,female,white,yes,depressants,some use,yes,yes,Court/criminal justice referral,college/university
+37,male,white,no,opioids and stimulants,daily use,no,no,community referral,highschool
+59.5,male,white,yes,depressants,daily use,no,yes,individual,highschool
+32,male,white,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+27,female,black,no,others,some use,no,no,community referral,college/university
+70,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,some use,no,yes,individual,college/university
+32,female,black,yes,depressants,some use,yes,no,Court/criminal justice referral,highschool
+47,female,white,yes,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,college/university
+42,female,white,no,others,some use,no,no,Court/criminal justice referral,highschool
+37,female,black,yes,depressants,some use,no,no,Court/criminal justice referral,college/university
+37,female,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+37,female,black,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+32,male,white,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,college/university
+42,male,black,yes,depressants,some use,no,yes,individual,highschool
+37,male,white,yes,depressants,some use,no,yes,Court/criminal justice referral,highschool
+52,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+16,male,white,no,others,no use,no,no,Court/criminal justice referral,highschool
+32,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+32,male,white,yes,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+27,female,white,yes,depressants,no use,yes,yes,Court/criminal justice referral,highschool
+42,male,white,yes,depressants,some use,yes,yes,Court/criminal justice referral,highschool
+47,male,white,yes,depressants,some use,yes,yes,individual,highschool
+42,female,others,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+37,male,others,yes,depressants,daily use,no,yes,Court/criminal justice referral,highschool
+37,male,white,yes,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+52,male,white,yes,depressants,daily use,yes,yes,Court/criminal justice referral,highschool
+27,male,others,yes,depressants,daily use,yes,no,Court/criminal justice referral,highschool
+16,female,others,yes,opioids and stimulants,some use,yes,no,individual,highschool
+52,male,others,yes,depressants,daily use,yes,no,individual,highschool
+27,female,white,yes,depressants,no use,no,yes,individual,highschool
+27,female,white,yes,opioids and stimulants,no use,yes,no,care provider,highschool
+37,male,others,yes,depressants,daily use,yes,yes,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,some use,yes,yes,individual,college/university
+47,male,others,yes,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+59.5,male,others,yes,depressants,some use,no,yes,Court/criminal justice referral,highschool
+52,male,others,yes,depressants,daily use,no,yes,Court/criminal justice referral,highschool
+22.5,male,white,yes,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+22.5,female,others,yes,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+32,male,white,yes,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+22.5,female,white,yes,others,no use,yes,yes,Court/criminal justice referral,highschool
+22.5,female,others,yes,others,some use,yes,yes,Court/criminal justice referral,highschool
+13,female,others,no,others,daily use,no,no,individual,lower than high school
+42,male,white,yes,depressants,no use,yes,yes,individual,highschool
+37,male,white,no,opioids and stimulants,daily use,no,yes,care provider,highschool
+59.5,male,others,yes,depressants,daily use,yes,yes,Court/criminal justice referral,highschool
+27,male,white,yes,depressants,no use,yes,yes,Court/criminal justice referral,highschool
+37,female,others,yes,depressants,daily use,yes,no,Court/criminal justice referral,highschool
+37,male,white,yes,depressants,some use,no,no,Court/criminal justice referral,college/university
+59.5,male,others,yes,depressants,daily use,yes,yes,Court/criminal justice referral,lower than high school
+32,male,white,yes,depressants,daily use,yes,yes,individual,highschool
+27,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+47,male,others,yes,depressants,some use,yes,yes,Court/criminal justice referral,highschool
+42,male,white,yes,depressants,no use,yes,no,Court/criminal justice referral,highschool
+47,male,black,yes,depressants,daily use,yes,yes,Court/criminal justice referral,college/university
+22.5,male,others,no,others,daily use,yes,yes,individual,highschool
+59.5,male,others,yes,depressants,daily use,yes,yes,Court/criminal justice referral,college/university
+37,female,others,yes,depressants,some use,yes,yes,individual,highschool
+59.5,male,others,yes,depressants,some use,yes,no,Court/criminal justice referral,highschool
+32,female,others,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,college/university
+32,female,others,yes,opioids and stimulants,some use,yes,yes,individual,highschool
+27,female,white,yes,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+37,female,others,no,opioids and stimulants,no use,no,no,individual,college/university
+37,male,others,yes,depressants,daily use,yes,yes,Court/criminal justice referral,highschool
+42,male,others,yes,depressants,daily use,no,yes,Court/criminal justice referral,highschool
+47,male,others,yes,depressants,daily use,yes,yes,Court/criminal justice referral,highschool
+37,female,white,yes,depressants,daily use,yes,yes,care provider,lower than high school
+47,female,white,yes,depressants,daily use,yes,yes,individual,college/university
+42,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+59.5,male,others,yes,depressants,daily use,yes,yes,Court/criminal justice referral,lower than high school
+59.5,male,others,yes,depressants,daily use,no,yes,Court/criminal justice referral,highschool
+37,male,others,yes,depressants,no use,yes,yes,individual,highschool
+59.5,male,white,yes,depressants,daily use,no,yes,individual,college/university
+42,male,others,yes,depressants,daily use,yes,yes,Court/criminal justice referral,lower than high school
+27,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,some use,no,yes,individual,college/university
+37,male,white,yes,depressants,daily use,no,yes,individual,highschool
+42,male,others,yes,depressants,daily use,no,no,care provider,highschool
+42,female,white,no,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+32,male,others,yes,depressants,some use,yes,yes,individual,highschool
+32,female,white,no,opioids and stimulants,daily use,yes,no,individual,highschool
+47,female,others,yes,depressants,some use,yes,yes,Court/criminal justice referral,highschool
+27,male,others,yes,depressants,daily use,no,no,Court/criminal justice referral,highschool
+19,male,others,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+37,male,others,yes,depressants,daily use,yes,no,care provider,highschool
+37,male,white,yes,depressants,daily use,yes,yes,Court/criminal justice referral,highschool
+32,male,others,yes,depressants,daily use,yes,yes,Court/criminal justice referral,highschool
+19,female,white,yes,depressants,some use,no,no,care provider,highschool
+19,male,others,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+37,female,white,no,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,college/university
+16,male,white,no,others,no use,no,yes,individual,highschool
+37,female,others,yes,depressants,some use,no,no,community referral,highschool
+19,male,white,no,others,some use,no,no,Court/criminal justice referral,highschool
+32,female,white,yes,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+32,male,white,no,opioids and stimulants,no use,yes,no,Court/criminal justice referral,college/university
+47,male,white,yes,depressants,daily use,no,yes,individual,highschool
+16,male,white,yes,depressants,some use,no,no,individual,highschool
+32,female,white,yes,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+47,male,white,yes,depressants,daily use,no,yes,Court/criminal justice referral,highschool
+42,male,others,yes,depressants,daily use,yes,yes,individual,highschool
+42,female,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+42,male,others,yes,depressants,daily use,no,yes,individual,highschool
+32,male,others,yes,depressants,some use,yes,no,community referral,highschool
+27,male,white,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+47,male,white,yes,depressants,daily use,no,yes,individual,highschool
+27,male,others,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+37,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+22.5,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+52,male,others,yes,depressants,daily use,yes,yes,individual,highschool
+27,male,white,no,opioids and stimulants,daily use,no,no,Court/criminal justice referral,highschool
+27,male,white,yes,depressants,no use,yes,yes,Court/criminal justice referral,college/university
+37,female,white,yes,depressants,some use,yes,yes,care provider,college/university
+37,male,others,no,opioids and stimulants,no use,no,yes,care provider,highschool
+32,female,white,yes,opioids and stimulants,no use,no,no,individual,lower than high school
+47,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+16,male,white,no,others,no use,no,no,community referral,highschool
+27,female,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+42,female,white,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+27,male,white,yes,depressants,some use,no,yes,individual,highschool
+27,male,black,no,others,no use,no,no,Court/criminal justice referral,highschool
+42,female,white,yes,depressants,some use,yes,yes,individual,college/university
+59.5,female,black,no,opioids and stimulants,no use,yes,yes,care provider,highschool
+13,male,white,yes,others,no use,no,no,care provider,lower than high school
+27,male,white,yes,depressants,some use,no,no,individual,highschool
+22.5,female,white,yes,depressants,no use,no,no,individual,highschool
+59.5,female,black,yes,depressants,some use,no,no,individual,college/university
+47,female,white,yes,opioids and stimulants,no use,no,yes,care provider,college/university
+70,male,black,no,opioids and stimulants,no use,no,no,care provider,highschool
+70,male,others,no,opioids and stimulants,no use,no,no,community referral,lower than high school
+22.5,male,others,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+52,male,white,yes,depressants,no use,no,yes,care provider,highschool
+59.5,male,black,yes,depressants,no use,no,yes,individual,highschool
+52,male,black,yes,depressants,no use,no,yes,care provider,college/university
+52,male,black,yes,depressants,no use,yes,yes,Court/criminal justice referral,highschool
+19,female,white,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+59.5,male,black,yes,depressants,no use,no,yes,individual,college/university
+19,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+37,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,college/university
+47,male,white,yes,depressants,some use,yes,yes,Court/criminal justice referral,highschool
+42,male,white,no,opioids and stimulants,no use,yes,yes,community referral,college/university
+37,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+52,female,black,no,opioids and stimulants,no use,no,no,individual,college/university
+42,male,white,no,opioids and stimulants,no use,no,yes,care provider,college/university
+16,female,white,no,others,no use,yes,no,community referral,lower than high school
+37,male,white,no,opioids and stimulants,no use,no,no,individual,highschool
+70,female,others,yes,depressants,no use,no,no,individual,college/university
+22.5,male,black,no,opioids and stimulants,no use,no,yes,care provider,highschool
+59.5,female,white,yes,depressants,no use,no,yes,individual,highschool
+37,male,black,yes,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,college/university
+47,male,others,yes,depressants,no use,no,yes,individual,highschool
+47,female,white,yes,depressants,no use,no,yes,care provider,highschool
+32,male,white,no,opioids and stimulants,no use,no,no,individual,highschool
+27,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+59.5,male,white,no,opioids and stimulants,no use,no,no,care provider,highschool
+37,male,black,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+32,male,others,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+37,male,black,no,others,no use,no,no,Court/criminal justice referral,highschool
+27,female,black,no,others,some use,no,no,care provider,highschool
+37,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+37,male,white,yes,depressants,no use,yes,yes,community referral,college/university
+37,male,others,yes,depressants,some use,no,no,individual,college/university
+52,male,white,yes,depressants,no use,no,yes,individual,highschool
+42,female,white,yes,depressants,no use,yes,yes,individual,highschool
+59.5,male,black,yes,depressants,no use,no,no,individual,highschool
+59.5,male,black,no,opioids and stimulants,no use,no,yes,individual,highschool
+42,female,white,yes,depressants,no use,no,no,community referral,college/university
+70,male,white,yes,depressants,no use,no,no,community referral,highschool
+52,male,white,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+42,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,college/university
+27,male,others,no,others,no use,no,no,Court/criminal justice referral,lower than high school
+32,male,black,yes,others,no use,no,yes,care provider,highschool
+52,male,black,yes,depressants,daily use,no,yes,individual,college/university
+32,male,white,yes,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+59.5,male,black,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,college/university
+47,male,white,yes,opioids and stimulants,no use,yes,no,individual,highschool
+32,female,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+27,male,others,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+59.5,male,others,yes,depressants,no use,no,yes,individual,lower than high school
+37,female,white,yes,opioids and stimulants,no use,no,yes,care provider,highschool
+70,male,white,yes,depressants,no use,no,no,individual,college/university
+27,female,black,yes,depressants,no use,no,yes,care provider,college/university
+47,male,white,no,opioids and stimulants,no use,no,yes,care provider,college/university
+19,male,white,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,lower than high school
+59.5,male,white,yes,depressants,no use,no,no,individual,lower than high school
+19,female,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+37,female,black,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+42,male,others,no,opioids and stimulants,no use,no,yes,care provider,highschool
+59.5,female,black,no,opioids and stimulants,daily use,yes,no,individual,highschool
+52,male,black,no,opioids and stimulants,no use,no,no,individual,highschool
+27,female,white,yes,depressants,no use,no,no,community referral,highschool
+27,male,others,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+22.5,female,black,no,others,no use,no,no,Court/criminal justice referral,highschool
+47,male,white,yes,depressants,daily use,no,yes,individual,college/university
+47,male,white,no,opioids and stimulants,no use,no,no,individual,college/university
+22.5,male,white,yes,depressants,no use,no,yes,individual,lower than high school
+27,male,others,yes,depressants,no use,no,no,Court/criminal justice referral,college/university
+59.5,female,black,yes,opioids and stimulants,no use,no,no,community referral,highschool
+37,female,white,no,opioids and stimulants,no use,yes,no,Court/criminal justice referral,college/university
+59.5,male,white,yes,depressants,no use,no,yes,care provider,highschool
+70,male,white,yes,depressants,no use,no,yes,individual,lower than high school
+32,female,white,no,opioids and stimulants,no use,no,no,Court/criminal justice referral,highschool
+42,male,others,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+59.5,male,black,no,opioids and stimulants,some use,no,yes,individual,highschool
+52,female,white,no,opioids and stimulants,some use,no,yes,care provider,highschool
+70,female,white,yes,depressants,no use,no,yes,individual,highschool
+19,male,white,yes,others,no use,yes,no,Court/criminal justice referral,highschool
+42,male,white,yes,depressants,no use,no,no,individual,highschool
+37,male,black,no,opioids and stimulants,no use,no,yes,individual,college/university
+27,female,white,yes,opioids and stimulants,no use,no,no,individual,highschool
+16,male,others,yes,depressants,no use,no,no,care provider,highschool
+19,female,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+32,male,white,no,opioids and stimulants,no use,no,yes,care provider,college/university
+42,male,others,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+47,male,black,no,others,no use,no,no,Court/criminal justice referral,highschool
+37,female,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,college/university
+37,male,black,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+32,female,white,yes,depressants,some use,no,no,individual,college/university
+22.5,male,white,yes,depressants,some use,no,no,individual,college/university
+70,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,daily use,no,yes,care provider,college/university
+47,female,white,yes,depressants,daily use,no,no,care provider,highschool
+42,female,white,yes,depressants,no use,yes,yes,care provider,college/university
+37,male,white,no,opioids and stimulants,no use,no,yes,care provider,highschool
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+27,female,white,yes,others,daily use,yes,no,care provider,highschool
+32,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+47,male,others,yes,depressants,no use,yes,yes,Court/criminal justice referral,highschool
+22.5,male,black,yes,depressants,some use,yes,no,individual,highschool
+47,male,others,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,college/university
+27,female,black,yes,others,daily use,yes,yes,Court/criminal justice referral,lower than high school
+47,male,white,no,opioids and stimulants,some use,no,no,care provider,highschool
+52,male,black,yes,depressants,some use,no,yes,individual,college/university
+32,male,white,yes,depressants,some use,no,yes,individual,highschool
+42,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+59.5,male,white,yes,depressants,daily use,no,yes,individual,highschool
+32,male,black,yes,depressants,some use,no,no,individual,lower than high school
+42,female,white,no,opioids and stimulants,daily use,yes,yes,individual,lower than high school
+59.5,male,black,no,opioids and stimulants,no use,no,yes,care provider,highschool
+32,male,white,no,opioids and stimulants,no use,yes,yes,care provider,highschool
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+37,female,white,no,opioids and stimulants,no use,no,yes,care provider,highschool
+47,male,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+59.5,female,white,no,opioids and stimulants,some use,no,yes,individual,highschool
+32,male,others,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,college/university
+32,male,white,yes,opioids and stimulants,daily use,yes,yes,individual,college/university
+32,male,black,no,others,no use,no,yes,Court/criminal justice referral,highschool
+47,female,white,no,others,no use,no,yes,Court/criminal justice referral,highschool
+52,male,white,yes,depressants,some use,no,yes,individual,college/university
+37,female,white,yes,depressants,daily use,yes,yes,individual,highschool
+59.5,male,black,yes,depressants,no use,no,yes,care provider,highschool
+42,male,white,no,others,some use,yes,no,community referral,highschool
+32,female,black,no,opioids and stimulants,some use,yes,yes,individual,highschool
+52,male,black,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+19,male,others,no,others,daily use,yes,yes,care provider,highschool
+22.5,male,black,no,opioids and stimulants,daily use,yes,no,individual,highschool
+37,male,others,no,opioids and stimulants,daily use,no,yes,individual,highschool
+42,male,black,yes,depressants,daily use,no,yes,individual,highschool
+27,female,white,yes,depressants,some use,no,yes,individual,highschool
+27,female,black,yes,depressants,some use,no,yes,individual,lower than high school
+37,male,black,no,opioids and stimulants,daily use,no,no,individual,highschool
+59.5,male,black,no,opioids and stimulants,no use,yes,yes,individual,highschool
+52,male,others,no,opioids and stimulants,some use,no,yes,individual,highschool
+32,male,white,yes,depressants,daily use,yes,yes,individual,highschool
+42,female,white,yes,depressants,some use,yes,yes,Court/criminal justice referral,college/university
+59.5,male,black,yes,depressants,some use,no,yes,individual,highschool
+37,female,others,no,others,no use,yes,yes,individual,highschool
+37,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+37,female,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+42,male,white,yes,opioids and stimulants,no use,no,yes,individual,college/university
+59.5,female,white,no,opioids and stimulants,daily use,no,yes,individual,college/university
+27,male,white,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+37,male,white,yes,opioids and stimulants,daily use,yes,yes,individual,highschool
+27,male,white,yes,depressants,some use,no,yes,individual,college/university
+37,male,white,yes,depressants,no use,yes,no,Court/criminal justice referral,college/university
+42,male,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+52,male,black,yes,depressants,daily use,yes,yes,individual,highschool
+42,male,white,yes,depressants,daily use,no,yes,individual,highschool
+27,male,others,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+22.5,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+52,female,white,yes,depressants,some use,no,yes,Court/criminal justice referral,college/university
+52,male,others,no,opioids and stimulants,no use,yes,no,Court/criminal justice referral,highschool
+27,male,white,yes,depressants,some use,yes,yes,care provider,highschool
+37,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+32,male,white,yes,depressants,some use,yes,no,individual,highschool
+52,male,white,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,some use,no,yes,individual,college/university
+37,male,white,no,opioids and stimulants,some use,yes,yes,care provider,college/university
+42,male,white,no,opioids and stimulants,no use,no,yes,care provider,highschool
+42,male,others,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+27,male,white,no,opioids and stimulants,daily use,yes,no,individual,highschool
+47,male,white,yes,depressants,daily use,yes,yes,individual,highschool
+47,male,white,yes,depressants,daily use,yes,yes,individual,highschool
+27,male,white,no,opioids and stimulants,no use,no,yes,individual,college/university
+32,female,others,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+42,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,male,white,yes,depressants,no use,yes,no,individual,highschool
+59.5,male,black,no,opioids and stimulants,no use,no,yes,individual,highschool
+47,male,black,yes,depressants,some use,no,yes,individual,college/university
+32,male,white,yes,depressants,daily use,yes,yes,individual,highschool
+32,female,white,no,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+59.5,male,white,no,others,some use,yes,yes,care provider,highschool
+59.5,female,white,yes,depressants,no use,no,yes,care provider,lower than high school
+52,female,black,yes,opioids and stimulants,some use,yes,yes,individual,college/university
+37,female,white,yes,depressants,no use,no,yes,community referral,college/university
+27,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+22.5,female,white,yes,opioids and stimulants,daily use,yes,yes,individual,highschool
+37,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+42,male,others,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+37,female,black,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+27,male,black,yes,others,daily use,no,yes,Court/criminal justice referral,highschool
+32,female,white,yes,depressants,daily use,no,yes,Court/criminal justice referral,highschool
+59.5,male,black,no,opioids and stimulants,some use,yes,yes,individual,highschool
+52,male,others,yes,depressants,daily use,no,no,individual,highschool
+32,male,white,no,opioids and stimulants,daily use,yes,no,individual,highschool
+52,male,white,yes,depressants,some use,no,yes,individual,highschool
+22.5,female,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+22.5,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+42,female,white,no,opioids and stimulants,some use,no,yes,individual,highschool
+37,female,white,no,opioids and stimulants,some use,no,yes,community referral,college/university
+42,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,female,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+32,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+37,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,female,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+47,male,white,no,opioids and stimulants,daily use,no,yes,care provider,college/university
+32,male,white,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,college/university
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+37,female,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+22.5,male,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+27,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+59.5,male,black,yes,opioids and stimulants,some use,no,yes,individual,highschool
+32,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+37,male,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+42,female,white,no,opioids and stimulants,no use,yes,no,individual,highschool
+59.5,male,black,no,opioids and stimulants,no use,yes,no,individual,highschool
+32,female,black,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+27,male,white,no,opioids and stimulants,daily use,yes,no,individual,highschool
+32,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+37,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+42,female,white,yes,opioids and stimulants,daily use,yes,yes,individual,highschool
+32,male,black,no,opioids and stimulants,daily use,no,yes,individual,highschool
+19,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+47,male,white,no,opioids and stimulants,no use,yes,no,individual,college/university
+27,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+37,male,white,yes,depressants,daily use,no,no,individual,highschool
+42,male,white,no,opioids and stimulants,daily use,no,no,Court/criminal justice referral,highschool
+42,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+42,male,white,no,opioids and stimulants,daily use,yes,no,individual,highschool
+70,male,black,no,opioids and stimulants,daily use,no,yes,individual,highschool
+59.5,male,black,no,opioids and stimulants,daily use,yes,no,individual,highschool
+52,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+37,male,white,no,opioids and stimulants,no use,yes,yes,care provider,highschool
+52,male,others,no,opioids and stimulants,daily use,no,yes,individual,college/university
+59.5,male,white,yes,opioids and stimulants,daily use,yes,yes,individual,highschool
+32,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+59.5,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+70,male,black,no,opioids and stimulants,daily use,yes,no,individual,highschool
+52,male,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+52,male,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+42,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+37,female,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+42,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+32,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+59.5,female,black,yes,opioids and stimulants,daily use,yes,yes,individual,highschool
+59.5,male,white,no,opioids and stimulants,daily use,yes,no,individual,highschool
+47,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+32,male,white,no,opioids and stimulants,no use,no,yes,individual,college/university
+32,female,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+42,male,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+27,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+42,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+59.5,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+52,male,black,yes,opioids and stimulants,daily use,no,yes,individual,highschool
+59.5,female,black,no,opioids and stimulants,daily use,yes,no,individual,highschool
+37,male,black,no,opioids and stimulants,daily use,yes,no,individual,highschool
+27,male,white,no,opioids and stimulants,daily use,no,no,individual,college/university
+70,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+42,female,white,no,opioids and stimulants,daily use,yes,yes,individual,lower than high school
+32,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+27,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+32,male,white,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+27,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+37,female,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+32,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+37,male,black,yes,depressants,daily use,no,no,individual,highschool
+47,female,white,no,opioids and stimulants,some use,yes,no,individual,college/university
+52,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+70,male,black,yes,depressants,daily use,no,yes,individual,highschool
+47,female,white,yes,depressants,daily use,yes,yes,individual,highschool
+27,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+27,female,white,yes,opioids and stimulants,no use,yes,no,care provider,highschool
+27,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+47,female,white,yes,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+59.5,male,white,no,opioids and stimulants,daily use,yes,no,care provider,highschool
+27,male,white,no,opioids and stimulants,no use,no,yes,community referral,highschool
+59.5,male,black,yes,depressants,no use,yes,yes,care provider,highschool
+47,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,female,others,no,depressants,daily use,yes,yes,individual,highschool
+32,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+52,female,white,no,opioids and stimulants,no use,yes,yes,individual,college/university
+70,male,black,no,opioids and stimulants,some use,no,no,individual,highschool
+32,male,black,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,female,white,yes,depressants,daily use,yes,yes,individual,highschool
+37,male,white,yes,depressants,no use,yes,yes,care provider,college/university
+37,male,others,yes,depressants,some use,yes,no,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+47,male,white,no,others,daily use,no,yes,individual,highschool
+32,male,white,no,opioids and stimulants,some use,yes,yes,individual,college/university
+52,female,white,no,opioids and stimulants,some use,no,yes,individual,highschool
+59.5,male,black,no,opioids and stimulants,no use,yes,no,Court/criminal justice referral,highschool
+27,male,white,yes,opioids and stimulants,daily use,yes,yes,individual,highschool
+37,male,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+37,female,black,no,opioids and stimulants,daily use,no,no,individual,highschool
+37,male,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+37,male,white,yes,depressants,daily use,yes,yes,Court/criminal justice referral,highschool
+59.5,female,black,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+27,male,white,no,opioids and stimulants,daily use,yes,no,individual,highschool
+52,male,others,no,opioids and stimulants,some use,no,yes,individual,lower than high school
+52,female,white,yes,depressants,some use,yes,yes,individual,highschool
+27,male,white,no,opioids and stimulants,some use,yes,no,individual,highschool
+42,female,white,yes,depressants,daily use,yes,yes,individual,highschool
+47,female,black,no,opioids and stimulants,daily use,no,yes,individual,highschool
+27,male,white,no,opioids and stimulants,daily use,yes,no,individual,highschool
+59.5,female,black,no,opioids and stimulants,daily use,no,yes,individual,highschool
+27,female,white,no,opioids and stimulants,no use,yes,yes,care provider,college/university
+32,female,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+27,male,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+32,male,black,no,opioids and stimulants,daily use,yes,no,individual,highschool
+32,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+52,male,black,yes,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,lower than high school
+32,male,white,yes,opioids and stimulants,daily use,no,yes,individual,highschool
+27,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+42,male,white,no,opioids and stimulants,daily use,yes,yes,care provider,highschool
+32,female,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+59.5,female,black,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,male,white,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,highschool
+19,male,white,no,others,no use,yes,no,Court/criminal justice referral,highschool
+22.5,male,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+19,male,white,yes,depressants,some use,yes,yes,care provider,highschool
+27,male,white,yes,depressants,some use,yes,yes,community referral,highschool
+27,female,white,yes,depressants,some use,yes,yes,individual,college/university
+32,female,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+22.5,female,white,no,opioids and stimulants,daily use,yes,no,care provider,highschool
+22.5,male,white,yes,depressants,daily use,yes,yes,individual,college/university
+22.5,male,white,no,opioids and stimulants,some use,yes,yes,care provider,highschool
+59.5,male,black,no,opioids and stimulants,some use,yes,yes,individual,highschool
+59.5,male,black,yes,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,college/university
+52,male,black,yes,depressants,daily use,yes,yes,individual,highschool
+22.5,male,black,yes,others,daily use,no,no,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,college/university
+32,male,white,no,others,some use,yes,yes,care provider,college/university
+42,male,white,no,opioids and stimulants,some use,yes,yes,individual,college/university
+47,male,white,yes,depressants,some use,no,yes,individual,highschool
+19,male,white,yes,depressants,no use,yes,yes,individual,highschool
+27,female,white,no,opioids and stimulants,no use,yes,yes,individual,college/university
+27,female,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+42,male,white,yes,depressants,daily use,yes,yes,individual,college/university
+52,male,white,no,others,daily use,no,yes,individual,college/university
+22.5,female,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+22.5,female,white,yes,depressants,some use,yes,yes,community referral,highschool
+59.5,male,black,yes,depressants,daily use,no,no,care provider,college/university
+32,male,white,yes,depressants,daily use,yes,yes,individual,highschool
+27,female,white,yes,depressants,some use,yes,no,community referral,college/university
+42,male,white,yes,depressants,daily use,no,yes,individual,college/university
+27,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+47,female,white,yes,depressants,some use,yes,yes,individual,college/university
+27,male,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+37,female,white,yes,depressants,daily use,yes,yes,community referral,college/university
+22.5,female,white,no,opioids and stimulants,no use,yes,yes,care provider,highschool
+59.5,male,white,yes,depressants,some use,yes,yes,individual,college/university
+37,male,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+37,male,white,yes,opioids and stimulants,some use,yes,yes,individual,highschool
+37,female,white,no,opioids and stimulants,daily use,no,yes,community referral,college/university
+37,female,others,no,opioids and stimulants,no use,yes,yes,individual,highschool
+52,male,white,yes,depressants,some use,no,yes,care provider,highschool
+22.5,male,others,no,opioids and stimulants,no use,no,no,individual,highschool
+22.5,female,white,no,others,daily use,yes,no,individual,college/university
+32,male,white,no,opioids and stimulants,some use,yes,yes,care provider,college/university
+32,male,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,college/university
+27,male,white,yes,depressants,some use,no,yes,Court/criminal justice referral,highschool
+27,male,white,yes,depressants,some use,no,no,Court/criminal justice referral,college/university
+27,female,white,no,opioids and stimulants,some use,yes,yes,individual,college/university
+47,female,black,yes,others,daily use,yes,yes,Court/criminal justice referral,college/university
+42,male,white,no,opioids and stimulants,some use,no,yes,care provider,highschool
+32,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+42,male,white,yes,depressants,no use,no,yes,individual,highschool
+42,male,white,yes,opioids and stimulants,some use,no,yes,care provider,highschool
+52,female,white,no,opioids and stimulants,no use,yes,yes,individual,college/university
+32,male,white,no,opioids and stimulants,some use,no,yes,individual,college/university
+42,male,white,yes,depressants,some use,yes,no,community referral,highschool
+42,female,white,no,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+52,female,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+52,male,white,yes,depressants,daily use,no,no,individual,college/university
+42,male,white,yes,opioids and stimulants,daily use,no,yes,care provider,highschool
+42,female,black,no,opioids and stimulants,no use,yes,no,community referral,highschool
+27,male,white,yes,depressants,daily use,no,yes,individual,highschool
+59.5,male,black,no,opioids and stimulants,daily use,yes,no,individual,highschool
+27,male,white,no,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+37,male,white,yes,depressants,daily use,yes,no,care provider,highschool
+59.5,female,black,yes,depressants,no use,yes,yes,Court/criminal justice referral,college/university
+32,male,white,no,others,no use,no,no,community referral,college/university
+13,male,white,yes,others,no use,yes,no,community referral,lower than high school
+42,male,others,no,opioids and stimulants,no use,yes,yes,individual,highschool
+32,male,white,yes,depressants,daily use,no,yes,individual,college/university
+42,male,white,yes,depressants,daily use,yes,yes,individual,highschool
+37,male,white,yes,opioids and stimulants,no use,yes,yes,individual,highschool
+59.5,female,white,yes,depressants,daily use,yes,yes,community referral,highschool
+37,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+32,male,white,yes,depressants,no use,no,yes,individual,highschool
+32,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,college/university
+42,female,white,no,opioids and stimulants,daily use,yes,yes,community referral,highschool
+32,male,white,no,depressants,daily use,yes,yes,Court/criminal justice referral,highschool
+47,male,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+59.5,female,white,yes,depressants,some use,no,yes,individual,college/university
+27,male,others,no,opioids and stimulants,no use,yes,no,individual,highschool
+27,male,white,no,opioids and stimulants,daily use,yes,yes,individual,lower than high school
+52,male,white,no,opioids and stimulants,some use,no,yes,individual,highschool
+47,female,white,yes,depressants,some use,yes,yes,care provider,college/university
+47,female,black,yes,depressants,daily use,yes,yes,individual,highschool
+42,female,white,yes,depressants,some use,yes,yes,care provider,highschool
+27,male,white,yes,depressants,some use,yes,yes,individual,college/university
+42,male,white,yes,depressants,no use,no,yes,care provider,college/university
+27,male,black,no,opioids and stimulants,some use,yes,yes,care provider,highschool
+32,male,white,yes,depressants,some use,no,yes,care provider,highschool
+37,male,white,yes,depressants,some use,no,yes,care provider,highschool
+37,male,white,yes,depressants,no use,yes,yes,Court/criminal justice referral,highschool
+59.5,female,white,yes,depressants,some use,yes,no,individual,college/university
+27,male,black,yes,depressants,some use,no,no,individual,highschool
+37,male,white,yes,opioids and stimulants,daily use,yes,yes,individual,highschool
+52,male,black,yes,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+27,female,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+42,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+37,male,white,no,opioids and stimulants,daily use,no,no,care provider,highschool
+22.5,male,white,no,others,daily use,yes,yes,individual,highschool
+52,male,white,yes,depressants,some use,yes,yes,individual,highschool
+27,male,white,yes,depressants,some use,yes,no,individual,college/university
+16,female,white,yes,depressants,some use,no,no,community referral,highschool
+27,male,white,no,opioids and stimulants,daily use,no,yes,community referral,highschool
+37,female,white,yes,depressants,some use,yes,no,individual,college/university
+59.5,male,white,yes,depressants,daily use,yes,yes,community referral,highschool
+19,female,white,no,opioids and stimulants,some use,yes,yes,care provider,highschool
+27,female,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+52,male,white,yes,depressants,daily use,yes,yes,individual,highschool
+47,male,white,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,highschool
+37,female,white,yes,depressants,no use,no,yes,individual,highschool
+47,male,white,no,opioids and stimulants,some use,no,no,community referral,highschool
+52,male,white,yes,depressants,no use,no,yes,individual,highschool
+32,male,black,no,opioids and stimulants,daily use,no,yes,individual,college/university
+59.5,male,white,no,opioids and stimulants,daily use,no,no,care provider,highschool
+42,female,white,yes,depressants,some use,yes,yes,individual,highschool
+37,male,others,yes,depressants,some use,no,no,Court/criminal justice referral,college/university
+32,female,white,yes,depressants,some use,yes,yes,individual,college/university
+47,female,white,yes,depressants,daily use,yes,yes,individual,college/university
+42,female,white,no,opioids and stimulants,daily use,yes,no,individual,highschool
+32,male,white,yes,depressants,some use,no,yes,individual,highschool
+52,male,white,yes,depressants,some use,no,yes,Court/criminal justice referral,highschool
+47,female,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+52,male,white,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,college/university
+47,male,white,yes,depressants,daily use,yes,yes,care provider,highschool
+32,male,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+42,male,white,yes,depressants,some use,no,no,individual,college/university
+42,female,black,yes,depressants,some use,yes,yes,Court/criminal justice referral,highschool
+27,female,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+42,male,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,daily use,yes,no,individual,college/university
+16,male,white,yes,depressants,no use,yes,no,Court/criminal justice referral,highschool
+22.5,female,white,yes,depressants,some use,no,no,individual,highschool
+37,male,white,no,others,some use,yes,yes,individual,college/university
+22.5,male,white,yes,depressants,some use,yes,yes,individual,highschool
+37,male,white,no,opioids and stimulants,daily use,no,yes,community referral,highschool
+32,male,white,yes,depressants,daily use,yes,yes,individual,college/university
+19,male,white,yes,depressants,daily use,no,yes,individual,highschool
+32,male,others,yes,depressants,no use,yes,yes,Court/criminal justice referral,highschool
+32,female,white,yes,depressants,some use,yes,yes,individual,highschool
+27,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,college/university
+32,male,white,yes,depressants,some use,yes,yes,individual,college/university
+27,male,white,no,opioids and stimulants,daily use,no,yes,individual,college/university
+32,male,white,yes,depressants,no use,yes,yes,care provider,college/university
+32,male,black,no,opioids and stimulants,daily use,yes,yes,care provider,highschool
+70,male,white,yes,depressants,daily use,yes,yes,care provider,college/university
+37,male,black,no,opioids and stimulants,daily use,no,yes,individual,highschool
+59.5,female,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+59.5,male,white,yes,depressants,some use,no,yes,individual,highschool
+42,female,white,yes,depressants,some use,no,yes,individual,college/university
+52,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+32,male,black,yes,depressants,daily use,no,yes,care provider,highschool
+42,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+27,male,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+22.5,male,white,yes,depressants,some use,no,no,individual,college/university
+59.5,male,white,no,opioids and stimulants,no use,yes,yes,community referral,highschool
+47,female,white,yes,depressants,no use,yes,yes,community referral,highschool
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+52,male,white,yes,depressants,some use,yes,yes,Court/criminal justice referral,college/university
+22.5,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+37,male,white,no,opioids and stimulants,some use,no,yes,community referral,highschool
+27,female,others,yes,opioids and stimulants,no use,yes,no,Court/criminal justice referral,highschool
+27,male,white,yes,depressants,some use,yes,yes,individual,highschool
+42,male,black,no,opioids and stimulants,no use,yes,yes,care provider,highschool
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+22.5,male,white,no,opioids and stimulants,daily use,no,yes,community referral,college/university
+42,male,white,no,opioids and stimulants,daily use,yes,no,individual,college/university
+27,male,others,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+16,male,white,yes,depressants,some use,yes,yes,individual,highschool
+32,female,white,yes,depressants,some use,yes,no,Court/criminal justice referral,college/university
+32,male,white,yes,depressants,no use,yes,yes,care provider,college/university
+32,female,white,no,opioids and stimulants,daily use,yes,yes,care provider,highschool
+27,male,black,no,opioids and stimulants,some use,no,yes,individual,highschool
+22.5,female,white,yes,depressants,no use,yes,yes,individual,highschool
+37,male,white,yes,depressants,some use,yes,no,care provider,college/university
+37,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+22.5,female,others,no,opioids and stimulants,no use,yes,no,care provider,highschool
+37,male,black,yes,others,some use,no,no,Court/criminal justice referral,highschool
+32,male,white,yes,depressants,some use,no,yes,individual,highschool
+47,female,white,yes,depressants,no use,yes,yes,individual,college/university
+32,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+52,male,white,no,opioids and stimulants,no use,no,no,individual,highschool
+37,female,white,no,opioids and stimulants,daily use,yes,yes,care provider,highschool
+32,male,white,yes,depressants,daily use,yes,no,individual,college/university
+16,male,white,yes,others,daily use,no,yes,Court/criminal justice referral,highschool
+42,male,black,no,opioids and stimulants,some use,yes,yes,individual,college/university
+37,female,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+42,male,white,no,opioids and stimulants,some use,yes,yes,care provider,highschool
+27,male,black,no,opioids and stimulants,daily use,no,no,individual,college/university
+32,female,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+70,male,black,yes,depressants,daily use,no,yes,individual,college/university
+37,female,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+37,female,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+37,female,white,no,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,lower than high school
+42,male,white,yes,depressants,daily use,yes,yes,individual,highschool
+32,female,white,no,opioids and stimulants,daily use,yes,no,individual,highschool
+37,male,white,no,opioids and stimulants,daily use,no,yes,individual,college/university
+32,female,white,no,others,some use,yes,yes,individual,highschool
+27,female,black,yes,opioids and stimulants,no use,no,yes,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+22.5,female,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+32,male,white,yes,depressants,some use,yes,yes,Court/criminal justice referral,college/university
+52,male,white,yes,opioids and stimulants,daily use,yes,yes,care provider,highschool
+37,male,white,yes,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+42,male,white,yes,opioids and stimulants,no use,yes,yes,individual,college/university
+37,male,white,no,opioids and stimulants,some use,yes,yes,care provider,college/university
+42,male,black,no,opioids and stimulants,daily use,no,yes,individual,highschool
+42,male,black,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,male,white,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,highschool
+37,male,white,yes,depressants,daily use,yes,yes,individual,highschool
+47,male,white,no,opioids and stimulants,no use,no,yes,individual,college/university
+47,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+37,female,black,no,opioids and stimulants,some use,yes,no,care provider,highschool
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,lower than high school
+42,male,black,no,opioids and stimulants,daily use,yes,yes,care provider,highschool
+37,male,white,no,opioids and stimulants,no use,yes,no,Court/criminal justice referral,highschool
+42,male,white,yes,depressants,some use,yes,yes,care provider,highschool
+32,male,white,no,opioids and stimulants,no use,yes,no,Court/criminal justice referral,highschool
+37,male,white,no,opioids and stimulants,no use,yes,yes,care provider,college/university
+42,female,white,yes,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+42,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+52,female,white,no,opioids and stimulants,some use,no,yes,care provider,highschool
+42,female,white,yes,depressants,daily use,no,yes,individual,highschool
+32,male,white,no,opioids and stimulants,no use,no,no,individual,college/university
+19,male,white,yes,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+22.5,female,others,yes,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+32,male,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+32,female,white,no,opioids and stimulants,some use,yes,no,individual,highschool
+22.5,male,white,no,depressants,some use,yes,no,care provider,lower than high school
+32,female,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+37,female,others,no,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,highschool
+42,female,white,no,opioids and stimulants,some use,no,no,individual,highschool
+16,male,white,no,others,some use,yes,yes,care provider,highschool
+47,male,white,no,opioids and stimulants,some use,no,yes,Court/criminal justice referral,college/university
+27,male,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+32,female,others,no,others,no use,no,no,Court/criminal justice referral,highschool
+27,female,white,yes,others,daily use,yes,no,Court/criminal justice referral,college/university
+27,female,white,yes,opioids and stimulants,some use,yes,yes,care provider,highschool
+32,female,others,no,opioids and stimulants,no use,no,yes,care provider,highschool
+59.5,male,black,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,male,white,yes,depressants,some use,no,yes,Court/criminal justice referral,college/university
+59.5,female,others,no,others,no use,yes,no,care provider,college/university
+27,male,white,no,opioids and stimulants,some use,no,no,individual,lower than high school
+47,male,black,yes,depressants,some use,no,no,Court/criminal justice referral,college/university
+37,male,white,yes,depressants,no use,no,yes,individual,highschool
+37,female,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,college/university
+52,female,white,yes,depressants,no use,yes,no,Court/criminal justice referral,college/university
+22.5,female,black,no,others,daily use,yes,yes,Court/criminal justice referral,highschool
+32,female,white,no,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+59.5,male,white,yes,depressants,some use,yes,no,Court/criminal justice referral,college/university
+47,female,white,yes,opioids and stimulants,daily use,yes,yes,care provider,highschool
+32,female,white,no,opioids and stimulants,no use,no,yes,individual,highschool
+37,female,white,yes,depressants,some use,yes,yes,individual,highschool
+22.5,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+52,male,black,no,others,some use,yes,yes,individual,highschool
+16,male,white,yes,others,some use,no,yes,individual,highschool
+27,female,white,no,opioids and stimulants,no use,yes,yes,care provider,highschool
+37,female,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,lower than high school
+42,female,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,college/university
+32,male,white,yes,depressants,some use,no,no,Court/criminal justice referral,college/university
+32,male,white,yes,depressants,daily use,yes,no,individual,highschool
+59.5,female,black,yes,depressants,some use,no,no,individual,highschool
+37,male,white,yes,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,college/university
+13,male,white,yes,others,daily use,yes,yes,Court/criminal justice referral,highschool
+52,male,white,yes,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+42,female,black,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+42,male,white,yes,opioids and stimulants,daily use,yes,yes,Court/criminal justice referral,highschool
+32,male,white,yes,depressants,some use,no,yes,Court/criminal justice referral,highschool
+32,female,white,yes,depressants,some use,yes,yes,individual,college/university
+42,male,white,no,opioids and stimulants,some use,no,no,Court/criminal justice referral,highschool
+16,female,white,yes,others,some use,no,yes,individual,highschool
+47,male,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+27,female,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+52,male,white,yes,depressants,daily use,no,yes,care provider,highschool
+42,female,white,no,opioids and stimulants,some use,no,yes,individual,highschool
+47,male,white,yes,depressants,some use,yes,yes,Court/criminal justice referral,highschool
+59.5,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+27,male,black,yes,depressants,some use,no,no,Court/criminal justice referral,highschool
+52,female,white,yes,depressants,some use,no,yes,Court/criminal justice referral,college/university
+59.5,female,black,no,opioids and stimulants,daily use,yes,no,care provider,college/university
+52,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,college/university
+37,female,white,no,opioids and stimulants,no use,yes,no,individual,highschool
+27,male,white,no,opioids and stimulants,no use,yes,no,individual,highschool
+59.5,male,white,no,others,some use,yes,yes,individual,highschool
+32,female,white,yes,depressants,some use,yes,yes,individual,highschool
+37,male,white,yes,opioids and stimulants,some use,yes,yes,Court/criminal justice referral,highschool
+27,female,white,no,opioids and stimulants,some use,no,no,individual,highschool
+59.5,female,white,no,others,no use,yes,yes,Court/criminal justice referral,highschool
+27,male,white,no,opioids and stimulants,daily use,no,yes,Court/criminal justice referral,highschool
+59.5,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,highschool
+37,female,white,yes,depressants,no use,yes,yes,care provider,highschool
+19,female,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+47,female,black,yes,depressants,daily use,yes,yes,individual,college/university
+42,female,white,no,opioids and stimulants,no use,no,no,individual,college/university
+32,male,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+70,male,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+52,male,white,yes,depressants,some use,no,no,Court/criminal justice referral,college/university
+27,male,white,no,opioids and stimulants,daily use,no,no,individual,highschool
+70,female,white,yes,depressants,some use,no,no,Court/criminal justice referral,college/university
+59.5,male,white,yes,opioids and stimulants,some use,yes,yes,care provider,college/university
+37,female,white,no,opioids and stimulants,daily use,yes,no,Court/criminal justice referral,highschool
+47,male,white,no,opioids and stimulants,daily use,no,yes,individual,highschool
+27,male,black,no,opioids and stimulants,some use,yes,no,individual,highschool
+16,male,white,no,others,some use,no,no,individual,highschool
+52,male,white,yes,depressants,some use,yes,no,care provider,college/university
+22.5,female,white,no,opioids and stimulants,some use,yes,no,individual,highschool
+37,female,white,yes,opioids and stimulants,some use,yes,yes,care provider,college/university
+19,male,others,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+42,female,white,no,opioids and stimulants,no use,yes,no,care provider,highschool
+37,female,black,no,others,some use,no,no,individual,highschool
+27,female,others,no,opioids and stimulants,daily use,no,no,individual,highschool
+32,male,white,no,opioids and stimulants,some use,yes,yes,individual,highschool
+42,female,white,no,opioids and stimulants,no use,yes,yes,care provider,highschool
+59.5,male,white,yes,depressants,no use,no,yes,Court/criminal justice referral,highschool
+37,female,white,no,opioids and stimulants,no use,yes,yes,individual,highschool
+37,male,white,yes,opioids and stimulants,no use,yes,yes,individual,college/university
+37,male,white,no,others,some use,no,no,individual,highschool
+32,female,white,no,opioids and stimulants,some use,yes,no,care provider,college/university
+27,male,white,yes,opioids and stimulants,no use,no,yes,individual,college/university
+42,male,black,no,opioids and stimulants,some use,no,no,individual,highschool
+37,female,black,no,opioids and stimulants,some use,yes,no,care provider,college/university
+32,male,black,no,opioids and stimulants,no use,yes,yes,individual,highschool
+59.5,male,white,yes,depressants,no use,no,yes,individual,college/university
+22.5,female,white,no,opioids and stimulants,some use,no,yes,care provider,highschool
+32,male,white,no,opioids and stimulants,no use,yes,no,care provider,highschool
+52,male,black,no,opioids and stimulants,some use,no,yes,individual,lower than high school
+22.5,male,others,yes,others,some use,no,no,Court/criminal justice referral,highschool
+52,male,white,yes,depressants,no use,no,no,Court/criminal justice referral,college/university
+37,male,white,no,others,no use,no,yes,Court/criminal justice referral,highschool
+27,male,white,no,opioids and stimulants,some use,no,yes,individual,highschool
+27,female,white,no,opioids and stimulants,no use,no,yes,Court/criminal justice referral,lower than high school
+27,female,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+52,male,black,no,opioids and stimulants,daily use,no,yes,individual,highschool
+32,male,black,no,opioids and stimulants,daily use,no,yes,individual,highschool
+37,female,white,no,others,no use,no,yes,Court/criminal justice referral,highschool
+32,female,others,yes,depressants,some use,no,yes,individual,highschool
+13,female,white,no,others,some use,yes,yes,care provider,lower than high school
+42,male,black,yes,depressants,some use,no,no,Court/criminal justice referral,college/university
+47,male,white,no,opioids and stimulants,no use,yes,yes,Court/criminal justice referral,highschool
+32,male,white,no,opioids and stimulants,some use,no,yes,individual,highschool
+42,female,white,no,others,no use,no,yes,individual,college/university
+42,male,white,yes,depressants,no use,yes,yes,individual,highschool
+37,male,white,no,opioids and stimulants,daily use,yes,yes,individual,highschool
+22.5,male,white,yes,depressants,no use,no,yes,individual,highschool
+27,female,white,yes,depressants,some use,yes,yes,individual,college/university
+37,female,black,no,opioids and stimulants,daily use,yes,yes,individual,college/university
+42,male,white,no,others,no use,yes,yes,Court/criminal justice referral,highschool
+42,male,white,yes,others,some use,no,yes,Court/criminal justice referral,college/university
+22.5,male,black,no,opioids and stimulants,some use,yes,yes,individual,lower than high school
+47,male,white,no,opioids and stimulants,no use,no,yes,care provider,college/university
+32,female,white,no,opioids and stimulants,some use,yes,yes,individual,lower than high school

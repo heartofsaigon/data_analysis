@@ -1,0 +1,4 @@
+variable,mean,lower,upper
+alcohol use,<0.001,<0.001,<0.001
+discharge,<0.001,<0.001,<0.001
+alcohol use x discharge,0.35,<0.001,1.5
